@@ -84,6 +84,6 @@ A sample blob of IPFS data may look like this:
 
 _Note: - not all tokens have the same metadata as the project has evolved some attributes have been dropped and some have been added._ 
 
-IPFS, although widely due to some the properties mentioned above, also has some flaws in the way that it relies on trusted
+IPFS, although used widely due to some the properties mentioned above, also has some flaws in the way that it relies on trusted
  or incentivised parties in always maintain a copy of that data. However, anymore can also participant in tits upkeep by simply 
  deciding to store the data associated to the hash as well. 
