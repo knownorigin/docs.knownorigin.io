@@ -1,4 +1,4 @@
-# Joining KO as an Artist
+# Join as an Artist
 
 ## How to apply?
 
