@@ -4,9 +4,12 @@
 ## Creating new editions
 
 * config options
+* size
+* min price
 * collabs
 * cover images
 * Minting contracts
+* terms of service
 
 ## Promoting your work
 
