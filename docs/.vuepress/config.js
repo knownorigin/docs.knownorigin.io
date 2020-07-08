@@ -1,4 +1,4 @@
-const { description } = require('../../package')
+const {description} = require('../../package')
 
 module.exports = {
   /**
@@ -16,9 +16,9 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/config/#head
    */
   head: [
-    ['meta', { name: 'theme-color', content: '#3eaf7c' }],
-    ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
-    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }]
+    ['meta', {name: 'theme-color', content: '#3eaf7c'}],
+    ['meta', {name: 'apple-mobile-web-app-capable', content: 'yes'}],
+    ['meta', {name: 'apple-mobile-web-app-status-bar-style', content: 'black'}]
   ],
 
   /**
@@ -72,5 +72,27 @@ module.exports = {
   plugins: [
     '@vuepress/plugin-back-to-top',
     '@vuepress/plugin-medium-zoom',
+    ['@vuepress/google-analytics',
+      {
+        'ga': 'UA-117421198-3'
+      }
+    ],
+    ['@vuepress/last-updated',
+      {
+        transformer: (timestamp, lang) => {
+          // Don't forget to install moment yourself
+          const moment = require('moment')
+          moment.locale(lang)
+          return moment(timestamp).fromNow()
+        }
+      }
+    ],
+    ['vuepress-plugin-clean-urls',
+      {
+        normalSuffix: '/',
+        indexSuffix: '/',
+        notFoundPath: '/404.html',
+      },
+    ],
   ]
 }
