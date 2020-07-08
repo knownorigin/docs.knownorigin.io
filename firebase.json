@@ -1,0 +1,7 @@
+{
+  "hosting": {
+    "site": "docs-known-origin-io",
+    "public": "./docs/.vuepress/dist",
+    "ignore": []
+  }
+}
