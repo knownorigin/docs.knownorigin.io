@@ -41,7 +41,7 @@ When an edition is minted the following items are defined and recorded on-chain:
 Some of these properties can change such as `totalSupply` being incremented by one each time a token has been issued. 
 Along with the `priceInWei` which can be modified by the `artistAccount` associated to it.
 
-There are also other properties which can controls and stored on-chain when creating an edition such as a collabrators 
+There are also some other properties which are stored on-chain when an edition is being created, such as any collaborators 
 details which are then used to split any fees accordingly.
 
 KnownOrigin ($KODA) tokens are ERC721 compliant.
@@ -49,14 +49,14 @@ KnownOrigin ($KODA) tokens are ERC721 compliant.
 ### What data is stored on IPFS
 
 [IPFS](https://ipfs.io/) _(unfortunately)_ stands for Inter Planetary File System, although not a great name in my opinion 
-it is a permissionless, peer-to-peer distributed file system which has some unique properties.
+it is a `permissionless`, `peer-to-peer` `distributed` file system which has some unique properties.
 
-It allows files to be uploaded and stored by a network of willing participants in a peer-two-peers network of nodes.
+The IPFS network enabled files to be uploaded and stored by a network of willing participants, in a network of peer-to-peer nodes.
 It also has other additional, very important, features such as content addressable data, also known as IPFS hashes or CIDs (Content Identifiers). 
-This means that the data uploaded produces a unique fingerprint based on that data provided, enabling you to be able to 
- prove the data stored on IPFS marries up the reference you keep against in on-chain.
+This means that the data uploaded produces a unique fingerprint based on the data itself, enabling you to prove the data stored on IPFS marries 
+up ti the reference kept on-chain, along with ensure it cannot be changed for something else as the hash would also change.
 
-A sample blob of IPFS data may look like this:
+A sample `JSON` blob we store on IPFS can be seen below:
 
 ```json
 {
@@ -84,6 +84,10 @@ A sample blob of IPFS data may look like this:
 
 _Note: - not all tokens have the same metadata as the project has evolved some attributes have been dropped and some have been added._ 
 
-IPFS, although used widely due to some the properties mentioned above, also has some flaws in the way that it relies on trusted
- or incentivised parties in always maintain a copy of that data. However, anymore can also participant in tits upkeep by simply 
- deciding to store the data associated to the hash as well. 
+IPFS, although used widely due to some the properties mentioned above, it also has some not so ideal qualities.
+ The main problem is how it relies on trusted or incentivised parties to always maintain a copy of that data. 
+ However, one good thing is that anyone, really anyone can also maintain this data, 
+ anymore can participant in its upkeep by simply deciding to also store the files.
+ 
+We have been looking at alternatives such as Arweave and FileCoin, along with others.
+ In the future may consider leveraging additional storage options if required to do so.  
