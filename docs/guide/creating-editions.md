@@ -6,6 +6,7 @@
 * config options
 * collabs
 * cover images
+* Minting contracts
 
 ## Promoting your work
 
@@ -21,6 +22,3 @@ We currently support the following fail formats:
 * Max file size - `50mb`
 
 * Cover images (can be used for video content) support a subset of image only formats of a smaller size. 
-
-
-

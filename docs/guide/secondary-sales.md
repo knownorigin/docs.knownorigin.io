@@ -1,10 +1,5 @@
 # Secondary sales
 
-Hello world
-
-## Royalties
-
-
-## Platform commission
-
+* Buy it now
+* Gallery filters
 

@@ -1,4 +1,4 @@
 # Primary sales
 
-## Commission splits
-
+* Initial sales
+* artist insight - everything is public
