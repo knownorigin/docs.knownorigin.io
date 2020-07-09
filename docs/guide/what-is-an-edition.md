@@ -46,7 +46,22 @@ details which are then used to split any fees accordingly.
 
 KnownOrigin ($KODA) tokens are ERC721 compliant.
 
-### What data is stored on IPFS
+### Why did we create Editions like this?
+
+Our first iteration of KnownOrigin created all the tokens upfront, after doing this for a few months we realised it was prohibitively 
+expensive to do so, we also originally had ideas that editions could be in the hundreds or even thousands of tokens, 
+like traditional print media.
+
+So we move to minting on demand letting the artists create a blue print, significantly reducing GAS costs. It does also
+ comes with some other advantages beyond just GAS costs savings, since an edition is a single entity you can easily control
+  aspects such as price in a single, cost effective transaction, as well as easily burn unsold tokens without burning all tokens individually.
+
+It's not all roses though, this comes with some trade-offs - mainly in that all the tokens don't appear immediately in a creator's wallet. 
+You can however gift tokens to yourself which then causes them to appear on site such as OpenSea and CryptoVoxels. 
+
+In the future we may change this method if it causes to many problems or hurdles for people, for now though its how KO works. 
+
+### What data do we store on IPFS?
 
 [IPFS](https://ipfs.io/) _(unfortunately)_ stands for Inter Planetary File System, although not a great name in my opinion 
 it is a `permissionless`, `peer-to-peer` `distributed` file system which has some unique properties.
@@ -84,10 +99,10 @@ A sample `JSON` blob we store on IPFS can be seen below:
 
 _Note: - not all tokens have the same metadata as the project has evolved some attributes have been dropped and some have been added._ 
 
-IPFS, although used widely due to some the properties mentioned above, it also has some not so ideal qualities.
- The main problem is how it relies on trusted or incentivised parties to always maintain a copy of that data. 
- However, one good thing is that anyone, really anyone can also maintain this data, 
- anymore can participant in its upkeep by simply deciding to also store the files.
+IPFS, although used widely due to some of the properties mentioned above, it also has some issues.
+ The main problem is how it relies on trusted or incentivised parties, such as KnownOrigin, to always maintain a copy of that data. 
+ However, the good thing is that anyone, really anyone can also maintain this same data, anymore can participate in its
+  upkeep by simply deciding to also store the files.
  
 We have been looking at alternatives such as Arweave and FileCoin, along with others.
  In the future may consider leveraging additional storage options if required to do so.  
