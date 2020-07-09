@@ -18,7 +18,8 @@ module.exports = {
   head: [
     ['meta', {name: 'theme-color', content: '#3eaf7c'}],
     ['meta', {name: 'apple-mobile-web-app-capable', content: 'yes'}],
-    ['meta', {name: 'apple-mobile-web-app-status-bar-style', content: 'black'}]
+    ['meta', {name: 'apple-mobile-web-app-status-bar-style', content: 'black'}],
+    ['link', { rel: 'icon', href: './favicon.ico' }]
   ],
 
   /**
@@ -27,12 +28,14 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
   themeConfig: {
-    repo: '',
+    repo: 'https://github.com/knownorigin/docs.knownorigin.io',
     editLinks: true,
+    lastUpdated: true,
     smoothScroll: true,
-    docsDir: '',
-    editLinkText: '',
-    lastUpdated: false,
+    docsRepo: 'https://github.com/knownorigin/docs.knownorigin.io',
+    docsDir: 'docs',
+    docsBranch: 'master',
+    editLinkText: 'Help us improve this page!',
     nav: [
       {
         text: 'Docs',
