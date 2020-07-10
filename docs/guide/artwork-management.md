@@ -1,11 +1,12 @@
 # Artwork Management
 
+# WIP
 
 ## Artist controls
 
-* price
-* gifting
-* offers only
+* Pricing
+* Gifting
+* Offers only
 * Burning editions
 
 ## Buyer controls

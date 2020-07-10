@@ -1,20 +1,21 @@
 # Creating Editions
 
+# WIP
 
 ## Creating new editions
 
-* config options
-* size
-* min price
-* collabs
-* cover images
+* Config options
+* Size
+* Pricing
+* Collabs
+* Cover images
 * Minting contracts
 * terms of service
 
 ## Promoting your work
 
-* Trevors guide to art promo?
 * Socials / make your artwork known and heard for the world to admire
+* [Artist checklist of success](https://www.trevorjonesart.com/blog/artist-checklist-for-success)  by [Trevor Jones](https://knownorigin.io/trevor-jones)
 
 ## Supported File Formats
 

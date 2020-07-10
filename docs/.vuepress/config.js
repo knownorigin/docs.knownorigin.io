@@ -60,8 +60,8 @@ module.exports = {
             'what-is-an-edition',
             'creating-editions',
             'fee-structure',
-            'primary-sales',
-            'secondary-sales',
+            // 'primary-sales',
+            // 'secondary-sales',
             'joining-ko-as-an-artist.md',
           ]
         }

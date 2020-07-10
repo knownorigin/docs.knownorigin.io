@@ -14,11 +14,12 @@ Welcome to KnownOrigin docs
 
 ## MetaVerse
 
-* CryptoVoxels Gallery -
-* Decentraland Gallery - 
-* Sandbox Gallery - 
+* CryptoVoxels Gallery - [visit](https://www.cryptovoxels.com/play?coords=NW@212W,2U,178S)
+* Decentraland Gallery - [visit](https://play.decentraland.org/?position=58%2C94)
+* Sandbox Gallery - TODO
 
 ## Technical stuff
+* [KO Insights](https://insights.knownorigin.io/)
+* [KO on Nonfungible.com](https://nonfungible.com/market/history/knownorigin) 
 * Public API [Subgraph](https://thegraph.com/explorer/subgraph/knownorigin/known-origin)
 * [GitHub](https://github.com/knownorigin)
-
