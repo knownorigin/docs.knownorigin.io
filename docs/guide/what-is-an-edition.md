@@ -1,18 +1,18 @@
 # What is an Edition?
 
-An edition represents a limited set of tokens which all share the same attributes but are unique by token ID. 
-For example, if I create an edition of 25, each token issued from this edition will share nearly all the same attributes
- as when the edition was originally minted. Tokens will also all be sequentially assigned a unique token ID 
- based on the order they are issued.
+An edition represents a limited set of tokens which all share the same attributes but have unique by token IDs. 
+For example, if I create an edition of 25, each token issued from this edition will share all the same attributes (apart from token ID)
+as defined when the edition was originally *minted*. Tokens will be sequentially assigned a unique token ID 
+based on the order they are issued.
 
 KnownOrigin enforces the number of tokens which can be issued from an edition on-chain and can be verified. 
 
 ## What defines an edition
 
-An edition is made up of two sets of data, consisting of data stored on IPFS which is then referenced on chain, 
+An edition is made up of two sets of data, consisting of data stored on [IPFS](https://ipfs.io/) which is then referenced on chain, 
 plus some additional on-chain attributes which enforce things like creator and edition size amongst other things.
 
-In general these two pieces of data defined the blue print for what an edition is and what its associated metadata are.
+In general these two pieces of data define the blue print for what an edition is and what it's associated metadata are.
 
 ### What data is stored on-chain
 
@@ -44,28 +44,28 @@ Along with the `priceInWei` which can be modified by the `artistAccount` associa
 There are also some other properties which are stored on-chain when an edition is being created, such as any collaborators 
 details which are then used to split any fees accordingly.
 
-KnownOrigin ($KODA) tokens are ERC721 compliant.
+KnownOrigin ($KODA) tokens are fully [ERC721](http://erc721.org/) compliant.
 
 ### Why did we create Editions like this?
 
 Our first iteration of KnownOrigin created all the tokens upfront, after doing this for a few months we realised it was prohibitively 
-expensive to do so, we also originally had ideas that editions could be in the hundreds or even thousands of tokens, 
+expensive to do so (for us and for creators), we also originally had ideas that editions could be in the hundreds or even thousands of tokens, 
 like traditional print media.
 
-So we move to minting on demand letting the artists create a blue print, significantly reducing GAS costs. It also
- enables some other advantages beyond just GAS costs savings, since an edition is a single entity you can easily control
-  aspects such as price in a single, cost effective transaction, as well as easily burning unsold tokens without burning 
-  all tokens individually.
+So we move to minting on demand letting the artists create a blue print, significantly reducing [GAS](https://kb.myetherwallet.com/en/transactions/what-is-gas/) costs. It also
+enables some other advantages beyond just GAS costs savings, since an edition is a single entity you can easily control
+aspects such as price in a single, cost effective transaction, as well as easily burning unsold tokens without burning 
+all tokens individually.
 
-It's not all roses though, this comes with some trade-offs - mainly in that all the tokens don't appear immediately in a creator's wallet. 
-You can however gift tokens to yourself which then causes them to appear on site such as OpenSea and CryptoVoxels. 
+It's not all roses though, this comes with some trade-offs - primarily being that all the tokens don't appear immediately in a creator's wallet or account. 
+If needed, as a creator you can however gift tokens to yourself which then causes them to appear on sites such as OpenSea and CryptoVoxels. 
 
-In the future we may change this method if it causes to many problems or hurdles for people, for now though this is how KO works. 
+In the future we may evolve this method as we are all learning the best approach to create and sell digital assets, for now though this is how KO works. 
 
 ### What data do we store on IPFS?
 
-[IPFS](https://ipfs.io/) _(unfortunately)_ stands for Inter Planetary File System, although not a great name in my opinion 
-it is a `permissionless`, `peer-to-peer` `distributed` file system which has some unique properties.
+[IPFS](https://ipfs.io/) _(unfortunately)_ stands for InterPlanetary File System, although not a great name in my opinion.
+The InterPlanetary File System is a protocol and peer-to-peer network for storing and sharing data in a distributed file system.
 
 The IPFS network enabled files to be uploaded and stored by a network of willing participants, in a network of peer-to-peer nodes.
 It also has other additional, important, features such as content addressable data, also known as IPFS hashes or CIDs (Content Identifiers). 
@@ -101,9 +101,9 @@ A sample `JSON` blob we store on IPFS can be seen below:
 _Note: - not all tokens have the same metadata, as the project has evolved some attributes have been dropped and some have been added._ 
 
 IPFS, although used widely due to some of the properties mentioned above, it also has some downsides.
- The main problem is how it relies on trusted or incentivised parties, such as KnownOrigin, to always maintain a copy of that data. 
- However, the good thing is that anyone, really anyone can also maintain this same data, anymore can participate in its
-  upkeep by simply deciding to also store the files.
+The main problem is how it relies on trusted or incentivised parties, such as KnownOrigin, to always maintain a copy of that data. 
+However, the good thing is that anyone, really anyone can also maintain this same data, anymore can participate in its
+upkeep by simply deciding to also store the files.
  
 We have been looking at alternatives such as Arweave and FileCoin, along with others.
- In the future may consider leveraging additional storage options if required to do so.  
+In the future may consider leveraging additional storage options if required to do so.  

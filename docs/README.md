@@ -2,8 +2,8 @@
 home: true
 sidebar: true
 heroImage: https://knownorigin.io/static/KO_icon_Blue.png
-tagline: 
+tagline: Discover and collect rare digital artwork
 actionText: Docs, Guides and Help →
 actionLink: /guide/
-footer: Made by KnownOrigin.io with ❤️
+footer: Made by KnownOrigin with ❤️
 ---
