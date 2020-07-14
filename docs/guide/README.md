@@ -23,3 +23,9 @@ Welcome to KnownOrigin docs
 * [KO on Nonfungible.com](https://nonfungible.com/market/history/knownorigin) 
 * Public API [Subgraph](https://thegraph.com/explorer/subgraph/knownorigin/known-origin)
 * [GitHub](https://github.com/knownorigin)
+
+## General crypto stuff
+
+* [How Ethereum works?](https://ethereum.org/en/learn/)
+* [What is ETH?](https://ethereum.org/en/eth/)
+* [What is GAS?](https://blockgeeks.com/guides/ethereum-gas/)
