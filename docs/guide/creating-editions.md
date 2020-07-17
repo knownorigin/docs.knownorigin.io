@@ -1,7 +1,5 @@
 # Creating Editions
 
-# WIP
-
 ## Creating new editions
 
 * Config options
@@ -12,11 +10,6 @@
 * Minting contracts
 * terms of service
 
-## Promoting your work
-
-* Socials / make your artwork known and heard for the world to admire
-* [Artist checklist of success](https://www.trevorjonesart.com/blog/artist-checklist-for-success)  by [Trevor Jones](https://knownorigin.io/trevor-jones)
-
 ## Supported File Formats
 
 We currently support the following fail formats:
@@ -26,3 +19,8 @@ We currently support the following fail formats:
 * Max file size - `50mb`
 
 * Cover images (can be used for video content) support a subset of image only formats of a smaller size. 
+
+## Promoting your work
+
+* Socials / make your artwork known and heard for the world to admire
+* [Artist checklist of success](https://www.trevorjonesart.com/blog/artist-checklist-for-success)  by [Trevor Jones](https://knownorigin.io/trevor-jones)
