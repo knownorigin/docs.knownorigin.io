@@ -59,6 +59,18 @@ You can toggle between `offers only` and `buy now` price multiple times.
 
 ## Token owner controls
 
-* Transferring tokens
+### Transferring tokens
 
-* Setting `buy now` price on secondary market **(coming soon)**
+When logged in and viewing a token you own, you will see button called `Transfer ownership`.
+
+Enter the `ETH` address of the recipient you want to send the token to, and click `Send`.
+
+This will transfer ownership to the address supplied.
+
+_**(This action cannot be reverse)**_
+
+<img :src="$withBase('/artwork-management/transfer-ownership.png')">
+
+### Secondary market buy now price
+ 
+* **(coming soon)**
