@@ -8,17 +8,21 @@
 * Collabs
 * Cover images
 * Minting contracts
-* terms of service
+* Terms of service
 
 ## Supported File Formats
 
-We currently support the following fail formats:
+We currently support the following file formats:
 
 * Image formats - `PNG`, `JPG`, `Gif`, `SVG` & `WebP` - (along with animated variants)
 * Video formats - `WebM` & `Mp4`
-* Max file size - `50mb`
+* Cover images (can be used for video content) and support a subset of image only formats of a smaller size. 
 
-* Cover images (can be used for video content) support a subset of image only formats of a smaller size. 
+
+## Max file size
+
+* `50mb`
+
 
 ## Promoting your work
 

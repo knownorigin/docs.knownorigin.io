@@ -1,7 +1,7 @@
 # Artwork Management
 
 Once an edition has been minted on KO, the platform offers several tools which allow 
-artists and collectors to modify settings of sold and unsold tokens.
+artists to modify settings of sold and unsold tokens.
 
 ## Artist controls
 

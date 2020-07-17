@@ -6,7 +6,7 @@ KnownOrigin has the following fee structure breakdown.
 
 * Artist - **85%**
 
-_(If multiple collaborators defined, fee split accordingly between participants)_ 
+_If multiple collaborators defined, fee split accordingly between participants_ 
 
 * Platform - **15%**
 
@@ -14,7 +14,7 @@ _(If multiple collaborators defined, fee split accordingly between participants)
 
 * Seller - **87%**
 * Artist - **10%**
-    * _(If multiple collaborators defined, fee split accordingly between participants)_ 
+    * _If multiple collaborators defined, fee split accordingly between participants_ 
 * Platform - **3%**
 
 KnownOrigin can only enforce these royalties when the sale is made on KnownOrigin's marketplace. If a trade is made on 

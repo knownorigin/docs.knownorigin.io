@@ -6,8 +6,10 @@
 
 ## How long does it take?
 
-- TODO 
+We are a small team. It can take weeks or a few months. 
+
+We appreciate your patience. We add artists in batches generally.
 
 ## Can I re-apply?
 
-- TODO
+Yes
