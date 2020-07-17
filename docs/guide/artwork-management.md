@@ -43,6 +43,8 @@ Once tokens have been sold or gifted, you cannot modify these tokens as you no l
 
 Click `Delete & Burn` to start the burn process.
 
+_**(This action cannot be reverse)**_
+
 <img :src="$withBase('/artwork-management/burn.png')">
 
 ### Offers only
