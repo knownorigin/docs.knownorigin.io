@@ -7,7 +7,7 @@ artists and collectors to modify settings of sold and unsold tokens.
 
 Navigate to your profile and click `Artwork` -> `Manage`.
 
-_(You will only see this if you are an artist on the platform.)_ 
+_You will only see this if you are an artist on the platform._ 
 
 <img :src="$withBase('/artwork-management/manage-artwork-tab.png')">
 
@@ -37,13 +37,13 @@ You can burn the remaining supply or completely burn the edition if no tokens ha
 
 If your edition is partially sold, burning it will reduce the edition total supply to the number of tokens already sold. 
  
-If **NO** tokens have been issued, `burning` will completely remove the edition and will not be shown on KO anymore.
+If **NO** tokens have been issued, `burning` will completely remove the edition and will not be shown on KnownOrigin anymore.
 
 Once tokens have been sold or gifted, you cannot modify these tokens as you no longer have ownership of them.
 
 Click `Delete & Burn` to start the burn process.
 
-_**(This action cannot be reverse)**_
+_**Be warned: this action cannot be reversed**_
 
 <img :src="$withBase('/artwork-management/burn.png')">
 
@@ -51,11 +51,11 @@ _**(This action cannot be reverse)**_
 
 For editions which are not sold out, you can set the remaining tokens in the edition to be `Offers only`.
 
-This means that a collector will have to make you an offer, which you then need to `accept` inorder to make the sale.
+This means that a collector will have to make you an offer, which you then need to `accept` in order to make the sale.
 
 You can also `reject` any offer if you are unhappy with the offer.
 
-You can toggle between `offers only` and `buy now` price multiple times.
+You can toggle between `offers only` and `buy now` price multiple times, if required.
 
 <img :src="$withBase('/artwork-management/offers-only.png')">
 
@@ -69,10 +69,10 @@ Enter the `ETH` address of the recipient you want to send the token to, and clic
 
 This will transfer ownership to the address supplied.
 
-_**(This action cannot be reverse)**_
+_**Be warned: this action cannot be reversed**_
 
 <img :src="$withBase('/artwork-management/transfer-ownership.png')">
 
 ### Secondary market buy now price
  
-* **(coming soon)**
+* _coming soon ;)_
