@@ -59,6 +59,7 @@ module.exports = {
             '',
             'what-is-an-edition',
             'creating-editions',
+            'creating-a-profile',
             'artwork-management',
             'fee-structure',
             'joining-ko-as-an-artist',
