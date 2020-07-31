@@ -29,3 +29,4 @@ Welcome to KnownOrigin docs
 * [How Ethereum works?](https://ethereum.org/en/learn/)
 * [What is ETH?](https://ethereum.org/en/eth/)
 * [What is GAS?](https://blockgeeks.com/guides/ethereum-gas/)
+* [Staying safe in Crypto](https://support.mycrypto.com/staying-safe)
