@@ -24,9 +24,10 @@ Welcome to KnownOrigin docs
 * Public API [Subgraph](https://thegraph.com/explorer/subgraph/knownorigin/known-origin)
 * [GitHub](https://github.com/knownorigin)
 
-## General crypto stuff
+## General crypto & art stuff
 
 * [How Ethereum works?](https://ethereum.org/en/learn/)
 * [What is ETH?](https://ethereum.org/en/eth/)
 * [What is GAS?](https://blockgeeks.com/guides/ethereum-gas/)
 * [Staying safe in Crypto](https://support.mycrypto.com/staying-safe)
+* [What is CryptoArt by Artnome](https://www.artnome.com/news/2018/1/14/what-is-cryptoart?s=03)
