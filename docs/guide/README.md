@@ -29,5 +29,6 @@ Welcome to KnownOrigin docs
 * [How Ethereum works?](https://ethereum.org/en/learn/)
 * [What is ETH?](https://ethereum.org/en/eth/)
 * [What is GAS?](https://blockgeeks.com/guides/ethereum-gas/)
+* [Ethereum Basics](https://docs.ethhub.io/ethereum-basics/what-is-ethereum/)
 * [Staying safe in Crypto](https://support.mycrypto.com/staying-safe)
 * [What is CryptoArt by Artnome](https://www.artnome.com/news/2018/1/14/what-is-cryptoart?s=03)
