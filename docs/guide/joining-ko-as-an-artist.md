@@ -2,7 +2,7 @@
 
 ## How to apply?
 
-- TODO
+Start of by making a profile on KO and filling in this [form](https://forms.gle/jEDd6Lpe92ZzNdMN6). 
 
 ## How long does it take?
 
@@ -12,4 +12,4 @@ We appreciate your patience. We add artists in batches generally.
 
 ## Can I re-apply?
 
-Yes
+Yes, pls do!

@@ -38,7 +38,7 @@ module.exports = {
     editLinkText: 'Help us improve this page!',
     nav: [
       {
-        text: 'Docs',
+        text: 'Guides',
         link: '/guide/',
       },
       // {
@@ -57,16 +57,15 @@ module.exports = {
           collapsable: true,
           children: [
             '',
-            'what-is-an-edition',
             'creating-editions',
             'creating-a-profile',
             'artwork-management',
-            'fee-structure',
             'joining-ko-as-an-artist',
-            // 'primary-sales',
-            // 'secondary-sales',
+            'what-is-an-edition',
+            'fee-structure',
+            'code-of-conduct',
           ]
-        }
+        },
       ],
     },
     sidebarDepth: 2,
