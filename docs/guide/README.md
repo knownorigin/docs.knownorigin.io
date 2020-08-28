@@ -24,11 +24,16 @@ Welcome to KnownOrigin docs
 * Public API [Subgraph](https://thegraph.com/explorer/subgraph/knownorigin/known-origin)
 * [GitHub](https://github.com/knownorigin)
 
-## General crypto & art stuff
+## Cryptoart stuff
+
+* [What is CryptoArt by Artnome](https://www.artnome.com/news/2018/1/14/what-is-cryptoart?s=03)
+* [OpenSea NFT Bible](https://opensea.io/blog/guides/non-fungible-tokens/)
+* [Artist checklist for success](https://www.trevorjonesart.com/blog/artist-checklist-for-success) by [Trevor Jones](https://knownorigin.io/trevor-jones)
+
+## General crypto stuff
 
 * [How Ethereum works?](https://ethereum.org/en/learn/)
 * [What is ETH?](https://ethereum.org/en/eth/)
 * [What is GAS?](https://blockgeeks.com/guides/ethereum-gas/)
 * [Ethereum Basics](https://docs.ethhub.io/ethereum-basics/what-is-ethereum/)
 * [Staying safe in Crypto](https://support.mycrypto.com/staying-safe)
-* [What is CryptoArt by Artnome](https://www.artnome.com/news/2018/1/14/what-is-cryptoart?s=03)

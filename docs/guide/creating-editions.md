@@ -110,4 +110,4 @@ We currently have a restriction of **1 upload every 24 hours**. The goal of this
 **(This section is a work in progress...)**
 
 * Socials / make your artwork known and heard for the world to admire is key
-* [Artist checklist of success](https://www.trevorjonesart.com/blog/artist-checklist-for-success)  by [Trevor Jones](https://knownorigin.io/trevor-jones)
+* [Artist checklist of success](https://www.trevorjonesart.com/blog/artist-checklist-for-success) by [Trevor Jones](https://knownorigin.io/trevor-jones)
