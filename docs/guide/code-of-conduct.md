@@ -19,9 +19,10 @@ As Google says "Don't be evil", if you see something that you think isn’t righ
 
 * Treat all members of the community with respect
 * If problems arise, talk to each other first and try to come to an understanding
-* Be inclusive, non-judgemental and polite to all
-* Flag scams, fakes and other problems to the wider community in order to get them resolved as quick as possible 
 * Do not threaten or attack any community member or member of the KO team
+* Wash trading, price exploitation or manipulation will not be tolerated 
+* Be inclusive, non-judgemental and polite - civil discussion should be possible without attacking each other on a personal level
+* Flag scams, fakes and other problems to the wider community in order to get them resolved as quick as possible
 
 ### For creatives
 
@@ -44,5 +45,7 @@ As Google says "Don't be evil", if you see something that you think isn’t righ
 For further details can be found on our [privacy policy](https://medium.com/knownorigin/privacy-policy-f19849a518c1) and our [terms and conditions](https://medium.com/knownorigin/terms-of-service-3efae6d0c20f)
 
 Please fork/bring to our attention other items which are missing from the list above. 
+
 This is our first time making one of these, and we'd love for the community to be more involved.
 
+If the above are infringed please bring this to our attention, we will aim to hold those accountable for their actions.
