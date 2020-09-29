@@ -1,9 +1,15 @@
-# Creating Editions
+# Minting New Artworks
 
 ## Uploading artwork options
 
 When creating new editions on KnownOrigin we offer a somewhat comprehensive set of configuration options, 
 allowing you to customise certain aspects of your work. Below we cover some of these options in more detail. 
+
+First visit your profile, once you are enabled on KO you will see a button like this, click it and then proceed to fill in the relevant information. 
+
+<table><tr><td>
+<img :src="$withBase('/creating-editions/minting-button.png')">
+</td></tr></table>
 
 #### Artwork detailed
 

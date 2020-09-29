@@ -37,3 +37,7 @@ Welcome to KnownOrigin docs
 * [What is GAS?](https://blockgeeks.com/guides/ethereum-gas/)
 * [Ethereum Basics](https://docs.ethhub.io/ethereum-basics/what-is-ethereum/)
 * [Staying safe in Crypto](https://support.mycrypto.com/staying-safe)
+
+## GAS prices
+* [GAS Now](https://www.gasnow.org/)
+* [ETH Gas Station](https://ethgasstation.info/)
