@@ -1,4 +1,4 @@
-# Minting New Artworks
+# Minting art
 
 ## Uploading artwork options
 
@@ -87,17 +87,7 @@ and classification of your artwork. They will also may be visible on third party
  
 #### Uploading artwork and Cover images
 
-We currently support the following file formats:
-
-* Image formats - `PNG`, `JPG`, `GIF`, `SVG` & `WebP` - (along with animated variants)
-* Video formats - `WebM` & `Mp4`
-* Max file size
-    - `50mb` for main asset
-    - `15mb` for cover images
-* Cover images (can be used for video content) and support a subset of image only formats of a smaller size. 
-
-We **recommend** uploading a cover image when using video animations as it will allow the token to be better 
-represented on other websites and wallets which do not support playing videos.
+More details about [supported formats](./supported-formats.md)   
 
 <table><tr><td>
 <img :src="$withBase('/creating-editions/upload-artwork.png')">

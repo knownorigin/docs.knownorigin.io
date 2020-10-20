@@ -58,6 +58,7 @@ module.exports = {
           children: [
             '',
             'creating-editions',
+            'supported-formats',
             'creating-a-profile',
             'artwork-management',
             'joining-ko-as-an-artist',
