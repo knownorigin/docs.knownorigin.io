@@ -65,6 +65,7 @@ module.exports = {
             'what-is-an-edition',
             'fee-structure',
             'code-of-conduct',
+            'what-is-eth2.0',
           ]
         },
       ],
