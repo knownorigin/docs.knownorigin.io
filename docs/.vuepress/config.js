@@ -66,6 +66,7 @@ module.exports = {
             'fee-structure',
             'code-of-conduct',
             'what-is-eth2.0',
+            'press-kit',
           ]
         },
       ],

@@ -73,6 +73,10 @@ _**Be warned: this action cannot be reversed**_
 
 <img :src="$withBase('/artwork-management/transfer-ownership.png')">
 
-### Secondary market buy now price
+### Secondary market listing
  
-* _coming soon ;)_
+Users will need to enable the marketplace smart contract when you list an item to sell.
+
+<img :src="$withBase('/artwork-management/Modal_enable.jpg')">
+
+Once you have enabled the marketplace you can select ‘sell this item’ from the '3 dots' drop down on the artwork you own. You can also change the price and cancel the sale at any time.

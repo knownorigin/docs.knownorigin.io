@@ -12,11 +12,11 @@ _If multiple collaborators defined, fee split accordingly between participants_
 
 ## Secondary sales
 
-* Seller - **87%**
-* Artist - **10%**
+* Seller - **85%**
+* Artist - **12.5%**
     * _If multiple collaborators defined, fee split accordingly between participants_ 
-* Platform - **3%**
+* Platform - **2.5%**
 
 KnownOrigin can only enforce these royalties when the sale is made on KnownOrigin's marketplace. If a trade is made on 
-another marketplace or OTC (over the counter), unfortunately royalties currently cannot be enforced. This may change as 
+another marketplace or OTC (over the counter), unfortunately royalties cannot currently be enforced. This may change as 
 wider support and technical standards emerge. 
