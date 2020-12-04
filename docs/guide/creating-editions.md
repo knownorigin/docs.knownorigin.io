@@ -11,10 +11,10 @@ First visit your profile, once you are enabled on KO you will see a button like 
 <img :src="$withBase('/creating-editions/minting-button.png')">
 </td></tr></table>
 
-#### Artwork detailed
+#### Artwork detailes
 
-This is fairly self-explanatory, allowing you to set the **name** and **description** of your artwork. 
-A good description can help collectors understand the artwork in more depth. These are also part of the ERC721 token 
+This section allows you to set the **name** and **description** of your artwork. 
+A good description can help collectors to understand the artwork more easily. These are also part of the ERC721 token 
 specification and will be displayed in most wallets and other third party sites which support NFTs.
 
 <table><tr><td>
@@ -28,7 +28,7 @@ specification and will be displayed in most wallets and other third party sites 
 Currently, we support a **max edition size of 25**.
 
 Once an edition is created, the **edition size** is set in stone, you cannot increase it, you can however 
-reduce via [artwork management](./artwork-management.md)   
+reduce it via [artwork management](./artwork-management.md)   
 
 Scarcity vs abundance comes into play when making the choice about edition size.
 We support and promote both `single-edition` and `multi-edition` artworks. 
@@ -52,9 +52,9 @@ There is currently a minimum price of _0.04 ETH_.
 
 **Accepting bids**
 
-Once enabled you will be able to receive offers as well setting a price for your artwork.
+Once enabled, you will be able to receive offers as well setting a price for your artwork.
 
-This **cannot** to modified once set so if in doubt we would recommend you enabled this feature. 
+This **cannot** be modified once set so if in doubt we would recommend you enabled this feature. 
 It can also help become a price discovery mechanism.
 
 <table><tr><td>
@@ -63,12 +63,12 @@ It can also help become a price discovery mechanism.
 
 #### Image/artwork usage
 
-You must adhere to copyright, originality and KO terms and conditions when minting. Reputation is king in this space, so
+You must adhere to copyright, originality and KO's terms and conditions when minting. Reputation is king in this space, so
  we ask those involved to respect other artists and collectors in these regards.
 
 #### Collaborations
 
-You can set another `Ethereum` address as a collaborator which you then can allocate a percentage of funds to on every sale,
+You can set another `Ethereum` address as a collaborator which you can then allocate a percentage of funds to on every sale,
  this works on both primary and secondary sales when they happen on the KO platform.
 
 You can currently specify a set of predefined percentages when minting such as 10%, 25%, 50% etc.
@@ -83,7 +83,7 @@ _**To note:** we only support whole numbers for percentage splits, so if a split
 #### Artwork and tagging
 
 You can **tag** your artwork using up to 25 tags. Try to be as accurate as possible as these tags power searching 
-and classification of your artwork. They will also may be visible on third party sites.
+and classification of your artwork. They also may be visible on third party sites.
  
 #### Uploading artwork and Cover images
 
@@ -95,11 +95,35 @@ More details about [supported formats](./supported-formats.md)
 
 ## How long does it take to appear on KO?
 
-Once the transaction has been sent from your wallet, it usually takes 3-5 minutes after being mined for it to 
+Once the transaction has been sent from your wallet, it usually takes 3-5 minutes after being minted for it to 
 appear on KnownOrigin. 
 
 We currently have a restriction of **1 upload every 24 hours**. The goal of this is to not overwhelm collectors and to try
- give some exposure to every ones creation.
+ give some exposure to every new creation.
+
+## Scheduling sale date
+
+You also have the option to schedule the start time of your sale on KO. This option can be found in the minting form.
+
+<table><tr><td>
+<img :src="$withBase('/artwork-management/schedule-sale.png')">
+</td></tr></table>
+
+Please note:
+
+* Time is ALWAYS in [UTC](https://time.is/UTC) - please get in contact on discord if you need help on this
+* This cannot be changed once set
+* The timer is on-chain and cannot be circumvented by bypassing the website 
+
+This will add a countdown timer to your artwork page.
+
+<table><tr><td>
+<img :src="$withBase('/artwork-management/scheduled-sale-edition.png')">
+</td></tr></table>
+
+### Why would you do this?
+
+We added this feature to enable artists to be better able to build a hype cycle for their releases and even do group releases. This would also enable you to schedule multiple works to drop at the same time (though the scheduling could only be done once a day).     
 
 ## Promoting your work
 
