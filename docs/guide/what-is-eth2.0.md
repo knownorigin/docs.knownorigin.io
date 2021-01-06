@@ -21,6 +21,6 @@ No, if you want to participate in the new network I would recommend reading lots
 
 ---------------------
 
-My opinon is that if ETH 2.0 works as is, it will solidify Ethereum as the top global smart contract platform that will enable trustless compute for generations to come, but in reality that is still a dream and is a few years away. 
+My opinion is that if ETH 2.0 works as is, it will solidify Ethereum as the top global smart contract platform that will enable trustless compute for generations to come, but in reality that is still a dream and is a few years away. 
 
-Hope this helps answer any questions - DM me or reply if you have any more.
+Hope this helps answer any questions - DM me or reply if you have anymore.
