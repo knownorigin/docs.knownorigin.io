@@ -2,7 +2,7 @@
 
 ## How to apply?
 
-Start of by making a profile on KO and filling in this [form](http://eepurl.com/gzZdwj). 
+Start of by making a profile on KO and filling in this [form](https://knownorigin.io/artist-application). 
 
 ## How long does it take?
 
