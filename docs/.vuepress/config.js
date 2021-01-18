@@ -62,6 +62,7 @@ module.exports = {
             'creating-a-profile',
             'artwork-management',
             'joining-ko-as-an-artist',
+            'trending-engine',
             'what-is-an-edition',
             'fee-structure',
             'code-of-conduct',
