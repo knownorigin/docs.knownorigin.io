@@ -32,6 +32,7 @@ A few key aspects of the current iteration are as follows:
  - The **seniority** of the piece does have a some impact
  - For **Genesis** artwork, these are boosted somewhat in an attempt to give new artists and collectors some love 
  - You can be **penalised** if specific conditions are triggered. 
+ - New creations are rewarded similarly to purchases. 
  
 Ultimately this is an early iteration of a tool which we hope to make more useful and prominent over time. 
 
