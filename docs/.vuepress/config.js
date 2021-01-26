@@ -57,6 +57,7 @@ module.exports = {
           collapsable: true,
           children: [
             '',
+            'frequently-asked-questions',
             'creating-editions',
             'supported-formats',
             'creating-a-profile',
