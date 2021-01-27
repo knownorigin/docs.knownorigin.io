@@ -20,20 +20,19 @@ Though these are only a few of the factors that can guide the pricing of work in
   
 
 #### How do I change my ETH address on my profile?
-<<<<<<< HEAD
-This is possible but there are some caveats. Once a token has been minted to a specific Ethereum address it can't be moved to another one. We handle these requests on a case by case basis so we recommend getting in contact on the #support channel on our [Discord](https://discord.gg/2whPWbq)
+This is possible but there are some caveats. Once a token has been minted to a specific Ethereum address it can't be moved to another one. We handle these requests on a case by case basis, we recommend getting in contact on the #support channel on our [Discord](https://discord.gg/2whPWbq)
 
 #### Can I change my wallet provider?
 Yes this is possible, we have provided a few useful articles which will help you do this.\
 • [How import a wallet to your MetaMask account?](https://medium.com/publicaio/how-import-a-wallet-to-your-metamask-account-dcaba25e558d)\
 • [How to import your Fortmatic wallet to your MetaMask account?](https://dnlrmrzsnz.medium.com/how-to-import-your-fortmatic-wallet-to-your-metamask-account-468cd113218d)\
-• [How to access private keys on Portis wallet](https://portis.zendesk.com/hc/en-us/articles/360013511600-How-Do-I-Access-My-Private-Keys-)\
-=======
+• [How to access private keys on Portis wallet](https://portis.zendesk.com/hc/en-us/articles/360013511600-How-Do-I-Access-My-Private-Keys-)
+
 
 #### Can I edit an existing collection?
-You can edit an existing collection, by selecting the 3 DOTS, you will see the edit button. 
+You can edit an existing collection, this is done by selecting the 3 DOTS, upon clicking you will see the edit button. 
 This will allow you to add and remove artworks, change the title, description and finally save your changes
 
 #### Is there a way to re-arrange the order my collections? 
-The best way to do this is by updating the collection. The order is define by last update, with the newest appearing at the top.
->>>>>>> b79461b42d7badf9186d2695d0b7ca986651a265
+The best way to do this is by updating the collection. The order is defined by last update, with the newest appearing at the top.
+
