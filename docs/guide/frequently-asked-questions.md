@@ -20,3 +20,11 @@ Though these are only a few of the factors that can guide the pricing of work in
   
 
 #### How do I change my ETH address on my profile?
+
+
+#### Can I edit an existing collection?
+You can edit an existing collection, by selecting the 3 DOTS, you will see the edit button. 
+This will allow you to add and remove artworks, change the title, description and finally save your changes
+
+#### Is there a way to re-arrange the order my collections? 
+The best way to do this is by updating the collection. The order is define by last update, with the newest appearing at the top.
