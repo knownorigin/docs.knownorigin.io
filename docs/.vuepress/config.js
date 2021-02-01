@@ -62,6 +62,7 @@ module.exports = {
             'supported-formats',
             'creating-a-profile',
             'artwork-management',
+            'drops',
             'joining-ko-as-an-artist',
             'trending-engine',
             'what-is-an-edition',
