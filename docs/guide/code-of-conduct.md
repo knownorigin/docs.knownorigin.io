@@ -5,7 +5,7 @@
 A code of conduct is a set of rules outlining the norms, rules, and responsibilities or proper practices of an individual party or an organisation
 who is interacting with the KnownOrigin community and its platform. 
 
-Primarily aimed at not being a dick! [wiki](https://en.wikipedia.org/wiki/Code_of_conduct)
+Primarily aimed at not being evil! [wiki](https://en.wikipedia.org/wiki/Code_of_conduct)
 
 ## The code!
 

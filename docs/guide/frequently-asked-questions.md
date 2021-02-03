@@ -42,7 +42,7 @@ Yes this is possible, we have provided a few useful articles which will help you
 • [How to import your Fortmatic wallet to your MetaMask account?](https://dnlrmrzsnz.medium.com/how-to-import-your-fortmatic-wallet-to-your-metamask-account-468cd113218d)\
 • [How to access private keys on Portis wallet](https://portis.zendesk.com/hc/en-us/articles/360013511600-How-Do-I-Access-My-Private-Keys-)
 
-    DO NOT SHARE YOUR PRIVATE KEYS WITH ANYONE ... EVERY!
+    DO NOT SHARE YOUR PRIVATE KEYS WITH ANYONE ... EVER!
 
 ## Can I edit an existing collection?
 You can edit an existing collection, this is done by selecting the 3 DOTS, upon clicking you will see the edit button. 
