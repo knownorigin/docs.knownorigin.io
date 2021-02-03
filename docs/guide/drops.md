@@ -1,4 +1,4 @@
-# Drops :fire:
+# :fire: Drops
 
 ## What is Drops?
 

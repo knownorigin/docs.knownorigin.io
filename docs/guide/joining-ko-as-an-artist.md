@@ -4,6 +4,12 @@
 
 Start off by making a profile on KO and filling in this [form](https://knownorigin.io/artist-application). We have a window which opens on the 22nd of each month for 3 days in which you must apply. 
 
+## What will I need to apply?
+
+* A portfolio with no more than 5 works (please make sure you give permission for it to be seen by us if it is a google docs or dropbox).
+* A brief summary of your work and why you think you'll be a good addition to KO.
+* Meet all the requirements for application such as making sure your profile is fully complete with profile/cover images and social media links.
+
 ## How long does it take?
 
 We endeavor to deal with all applications within a month of applying.

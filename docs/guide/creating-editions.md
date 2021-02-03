@@ -127,7 +127,8 @@ We added this feature to enable artists to be better able to build a hype cycle 
 
 ## Promoting your work
 
-**(This section is a work in progress...)**
-
-* Socials / make your artwork known and heard for the world to admire is key
+* Socials / make sure you are building a brand which collectors will recognise and fall in love with.
+* Be an active member of the scene by signing up for any competitions that and running and be active in the community Discord. Collectors are more likely to buy from a name they can recognise and someone they know is dedicated.
+* Try to build up a lasting relationship with the collectors who are interested in your work.
 * [Artist checklist of success](https://www.trevorjonesart.com/blog/artist-checklist-for-success) by [Trevor Jones](https://knownorigin.io/trevor-jones)
+* [How To Build a Social Following for Your Art](http://www.snapfluence.com/resources-blog/2017/9/1/how-to-build-a-social-following-for-your-art)

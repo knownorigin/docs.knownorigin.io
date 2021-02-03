@@ -60,6 +60,7 @@ module.exports = {
             'frequently-asked-questions',
             'creating-editions',
             'supported-formats',
+            'video-encoding',
             'creating-a-profile',
             'artwork-management',
             'drops',
