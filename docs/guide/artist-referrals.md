@@ -27,8 +27,9 @@ When the KO team processes an artist application we will check if they have a re
 ## Process for a KO artist to send a referral
 
 1. Ask the KO team for a referral link on the `#support-artist-application`
-2. Send the link to the potential artist (who plans to apply). *Don't click on this yourself*
-3. Pat yourself on the back for helping grow the KnownOrigin artist collective
+2. Send the link to the potential artist (who plans to apply). *Don't click on this yourself*.
+3. Educate the applicant about any gaps in their knowledge on the platform, wallets, and blockchain
+4. Pat yourself on the back for helping grow the KnownOrigin artist collective
 
 
 
