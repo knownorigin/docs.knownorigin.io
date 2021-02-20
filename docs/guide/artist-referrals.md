@@ -1,3 +1,25 @@
+---
+title: Artist Referrals
+description: This page explains all about Artist Referrals
+
+# Publish date of this page/post
+date: 2021-02-22
+
+# The list of tags for the post
+tags:
+  - FAQ
+  - artist
+  - referral
+
+# Absolute path to the main image preview for this page
+# Example location: ./vuepress/public/img/posts/page-image.jpg
+image: https://storage.googleapis.com/poapmedia/knownorigin-february-artist-referral-badge-2021-logo-1613555043783.png
+
+# Add canonical URL to the frontmatter of each page
+# Make sure this is the final, permanent URL of the page
+canonicalUrl: https://docs.knownorigin.io/guide/artist-referrals
+---
+
 # Artist Referrals
 
 ## What are referrals?
