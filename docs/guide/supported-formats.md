@@ -8,8 +8,8 @@ We currently support the following file formats:
 * Video formats - `WebM` & `Mp4`
 * 3D formats - `GLB`
 * Max file size
-    - `50mb` for main asset
-    - `15mb` for cover images
+    - `75mb` for main asset
+    - `25mb` for cover images
 
 Cover images are **mandatory** when using video or 3D models - this will enabled the token to be better 
 represented on other websites and wallets which do not support these media types.
