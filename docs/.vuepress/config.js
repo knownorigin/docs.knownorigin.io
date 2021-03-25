@@ -62,6 +62,7 @@ module.exports = {
             'supported-formats',
             'video-encoding',
             'creating-a-profile',
+            'user-socials-verification',
             'artwork-management',
             'drops',
             'joining-ko-as-an-artist',
