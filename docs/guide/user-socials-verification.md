@@ -66,4 +66,7 @@ Some things to check if the verification process was not successful.
 * Make sure if you have **multiple Twitter profiles**, the one you log in as **matches** the one on your profile. 
   One option is to log out of all of them, then when performing the verification process, you can correctly log in to the right account.
 
+* If you have linked your account and then you **change your handle** on Twitter/Instagram -
+  verification can/will fail. If so then remove the linked tool in your settings on Twitter/Instagram account, log in out of KO and try again.
+
 * If you once got verified and then changed your social accounts, you will need to re-verify them to get the blue badge back.
