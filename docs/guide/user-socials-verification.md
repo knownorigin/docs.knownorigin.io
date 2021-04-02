@@ -70,3 +70,7 @@ Some things to check if the verification process was not successful.
   verification can/will fail. If so then remove the linked tool in your settings on Twitter/Instagram account, log in out of KO and try again.
 
 * If you once got verified and then changed your social accounts, you will need to re-verify them to get the blue badge back.
+
+* When trying to verify if you DO NOT see a popup, try to disable popup blockers or other browser plugins which may stop the process.
+
+* It's best to do this process NOT on your phone, try a desktop or tablet, it works best on these.
