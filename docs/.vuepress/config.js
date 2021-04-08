@@ -1,4 +1,4 @@
-const {description} = require('../../package')
+const {description} = require('../../package');
 
 module.exports = {
   /**
@@ -19,7 +19,7 @@ module.exports = {
     ['meta', {name: 'theme-color', content: '#5165FF'}],
     ['meta', {name: 'apple-mobile-web-app-capable', content: 'yes'}],
     ['meta', {name: 'apple-mobile-web-app-status-bar-style', content: 'black'}],
-    ['link', { rel: 'icon', href: './favicon.ico' }]
+    ['link', {rel: 'icon', href: './favicon.ico'}]
   ],
 
   /**
@@ -64,6 +64,7 @@ module.exports = {
             'creating-a-profile',
             'user-socials-verification',
             'artwork-management',
+            'donating-to-charity',
             'drops',
             'joining-ko-as-an-artist',
             'artist-referrals',
@@ -95,9 +96,9 @@ module.exports = {
       {
         transformer: (timestamp, lang) => {
           // Don't forget to install moment yourself
-          const moment = require('moment')
-          moment.locale(lang)
-          return moment(timestamp).fromNow()
+          const moment = require('moment');
+          moment.locale(lang);
+          return moment(timestamp).fromNow();
         }
       }
     ],
@@ -109,4 +110,4 @@ module.exports = {
       },
     ],
   ]
-}
+};
