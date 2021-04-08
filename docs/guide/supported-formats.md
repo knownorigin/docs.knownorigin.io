@@ -47,6 +47,14 @@ KO now supports 360 images, sometimes also referred to as image spheres.
 
 The main asset is the only asset captured - **no cover image is required**.
 
+In order for your image to correctly display as a 360 image on KO you MUST have the following:
+
+* Image formats - PNG, JPG
+* Image needs to contain the `Exif XMP` tag name:`ProjectionType` value:`equirectangular` (Without this they will not work on KO as 360 images)
+
+When uploading 360 image, if the upload form **DOES NOT** render a 360 image, something is invalid, and you are most likely
+missing the correct image metadata tag, **do not mint as it will NOT work without it**.
+
 We use the open source viewer known as [pannellum](https://pannellum.org) to render the images on KnownOrigin. 
 
 **One point to note: 
