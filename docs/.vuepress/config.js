@@ -57,23 +57,41 @@ module.exports = {
           collapsable: true,
           children: [
             '',
-            'frequently-asked-questions',
-            'creating-editions',
-            'supported-formats',
-            'video-encoding',
-            'creating-a-profile',
-            'user-socials-verification',
-            'artwork-management',
-            'donating-to-charity',
-            'drops',
-            'joining-ko-as-an-artist',
-            'artist-referrals',
-            'trending-engine',
-            'what-is-an-edition',
-            'fee-structure',
-            'code-of-conduct',
-            'what-is-eth2.0',
-            'press-kit',
+            {
+              title: 'Commonly Asked Questions',
+              collapsable: true,
+              children: [
+                'frequently-asked-questions',
+                'joining-ko-as-an-artist',
+                'artist-referrals',
+                'what-is-an-edition',
+                'drops',
+                'creating-a-profile',
+              ]
+            },
+            {
+              title: 'How to Guides?',
+              collapsable: true,
+              children: [
+                'user-socials-verification',
+                'creating-editions',
+                'artwork-management',
+                'donating-to-charity',
+                'supported-formats',
+                'video-encoding',
+                'trending-engine',
+              ]
+            },
+            {
+              title: 'Misc',
+              collapsable: true,
+              children: [
+                'code-of-conduct',
+                'fee-structure',
+                'what-is-eth2.0',
+                'press-kit',
+              ]
+            }
           ]
         },
       ],
