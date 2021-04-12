@@ -2,7 +2,7 @@
 
 ## What is Drops?
 
-Drops is a promotion service we offer to our artists, the limit is 1 drop per an artist at the moment. The drops take place every Thursday with a group of 4 artists showing 1 work each. To arrange a drop please contact us on [Discord](https://discord.gg/2whPWbq) on the #support-drops channel, and you will be added to the dedicated #upcoming-drops channel where we will arrange and schedule your drop.
+Drops is a promotion service we offer to our artists, the limit is 1 drop per an artist at the moment. The drops take place every Thursday with a group of 4 artists showing 1 work each. To arrange a drop please contact us on [Discord](https://discord.gg/2whPWbq) on the #apply-for-drops channel, and you will be added to the dedicated #upcoming-drops channel where we will arrange and schedule your drop.
 
 
 ## Participating in a Drop?
