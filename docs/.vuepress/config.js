@@ -66,6 +66,7 @@ module.exports = {
             'drops',
             'joining-ko-as-an-artist',
             'artist-referrals',
+            'verify-on-discord',
             'trending-engine',
             'what-is-an-edition',
             'fee-structure',
