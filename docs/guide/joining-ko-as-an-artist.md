@@ -2,7 +2,9 @@
 
 ## How to apply?
 
-Start off by making a profile on KO and filling in this [form](https://knownorigin.io/artist-application). We have a window which opens on the 22nd of each month for 3 days in which you must apply. 
+Start off by making a profile on KO and filling in this [form](https://knownorigin.io/artist-application).  
+
+The application window will open soon, stay tuned!
 
 ## What will I need to apply?
 

@@ -1,4 +1,4 @@
-const {description} = require('../../package')
+const {description} = require('../../package');
 
 module.exports = {
   /**
@@ -19,7 +19,7 @@ module.exports = {
     ['meta', {name: 'theme-color', content: '#5165FF'}],
     ['meta', {name: 'apple-mobile-web-app-capable', content: 'yes'}],
     ['meta', {name: 'apple-mobile-web-app-status-bar-style', content: 'black'}],
-    ['link', { rel: 'icon', href: './favicon.ico' }]
+    ['link', {rel: 'icon', href: './favicon.ico'}]
   ],
 
   /**
@@ -57,22 +57,42 @@ module.exports = {
           collapsable: true,
           children: [
             '',
-            'frequently-asked-questions',
-            'creating-editions',
-            'supported-formats',
-            'video-encoding',
-            'creating-a-profile',
-            'artwork-management',
-            'drops',
-            'joining-ko-as-an-artist',
-            'artist-referrals',
-            'verify-on-discord',
-            'trending-engine',
-            'what-is-an-edition',
-            'fee-structure',
-            'code-of-conduct',
-            'what-is-eth2.0',
-            'press-kit',
+            {
+              title: 'Commonly Asked Questions',
+              collapsable: true,
+              children: [
+                'frequently-asked-questions',
+                'joining-ko-as-an-artist',
+                'artist-referrals',
+                'what-is-an-edition',
+                'drops',
+                'creating-a-profile',
+              ]
+            },
+            {
+              title: 'How to Guides?',
+              collapsable: true,
+              children: [
+                'user-socials-verification',
+                'creating-editions',
+                'artwork-management',
+                'donating-to-charity',
+                'supported-formats',
+                'video-encoding',
+                'trending-engine',
+                'verify-on-discord',
+              ]
+            },
+            {
+              title: 'Misc',
+              collapsable: true,
+              children: [
+                'code-of-conduct',
+                'fee-structure',
+                'what-is-eth2.0',
+                'press-kit',
+              ]
+            }
           ]
         },
       ],
@@ -95,9 +115,9 @@ module.exports = {
       {
         transformer: (timestamp, lang) => {
           // Don't forget to install moment yourself
-          const moment = require('moment')
-          moment.locale(lang)
-          return moment(timestamp).fromNow()
+          const moment = require('moment');
+          moment.locale(lang);
+          return moment(timestamp).fromNow();
         }
       }
     ],
@@ -109,4 +129,4 @@ module.exports = {
       },
     ],
   ]
-}
+};
