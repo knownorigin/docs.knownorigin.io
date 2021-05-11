@@ -48,18 +48,7 @@ If set, this is the `ETH` price for an individual token.
 Pricing is hard from our experience, especially for new comers to the space, please reach out on 
 [Discord](https://discord.gg/2whPWbq) to speak to other artists on this subject. 
 
-There is currently a minimum price of _0.04 ETH_.
-
-**Accepting bids**
-
-Once enabled, you will be able to receive offers as well setting a price for your artwork.
-
-This **cannot** be modified once set so if in doubt we would recommend you enabled this feature. 
-It can also help become a price discovery mechanism.
-
-<table><tr><td>
-<img :src="$withBase('/creating-editions/edition-size-and-price.png')">
-</td></tr></table>
+There is currently a minimum price of _0.01 ETH_.
 
 #### Image/artwork usage
 
