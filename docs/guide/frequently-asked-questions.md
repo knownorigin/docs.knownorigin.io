@@ -19,6 +19,15 @@ Note: As a consequence the cost of minting a piece of work will also increase if
 
 If you have been quoted an unusually high price for minting we recommend you hold off and keep checking a gas price checker like this one [GAS Now](https://www.gasnow.org/) till the price has normailsed. If the average price of gas is above 75 gwei we would recommend waiting till the price drops again. You are also able to send a transaction through at a lower price than the average, though these do take a bit longer than those sent through at higher gas.
 
+## How do I set a minimum bid on my artwork?
+We allow you to set a minimum bid on your artwork which means that anyone looking to bid on your work must make a bid at or above what you have set as a minimum. To set this you will need to click on the three dot button (⋯) on artworks that:
+
+• You have listed as offers only
+
+• An artwork in your collection that you have not listed yet
+
+In the menu select the option "Set minimum bid" where you can enter your desired minimum.
+
 ## When will I hear back about my application?
 Once you have applied (during the application window) we endeavor to give you a response within the following month.
 
