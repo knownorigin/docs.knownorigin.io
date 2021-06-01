@@ -55,7 +55,9 @@ In order for your image to correctly display as a 360 image on KO you MUST have 
 When uploading 360 image, if the upload form **DOES NOT** render a 360 image, something is invalid, and you are most likely
 missing the correct image metadata tag, **do not mint as it will NOT work without it**.
 
-We use the open source viewer known as [pannellum](https://pannellum.org) to render the images on KnownOrigin. 
+We use the open source viewer known as [pannellum](https://pannellum.org) to render the images on KnownOrigin.
+
+**The maximum image size should be preferably limited to 4096px wide; 8192px is also acceptable for most devices.**
 
 **One point to note: 
 Service such as OpenSea or Rarible currently do not know how to render this type of image, so they are displayed flat.
