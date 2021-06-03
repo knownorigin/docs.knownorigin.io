@@ -74,6 +74,7 @@ module.exports = {
               collapsable: true,
               children: [
                 'user-socials-verification',
+                'unlockable-content',
                 'creating-editions',
                 'artwork-management',
                 'donating-to-charity',

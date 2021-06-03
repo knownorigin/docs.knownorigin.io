@@ -30,7 +30,6 @@ This is a very complex problem that artists across the board face. There are a n
 * Time spent on work
 
 Though these are only a few of the factors that can guide the pricing of work in this space the ultimate decider is you and what you would be happy to accept for it. Initially setting your work to offers only may be a valuable method of price discovery. You might also want to look at how your peers who are selling on KO price their work keeping in mind the criteria above.
-  
 
 ## How do I change my ETH address on my profile?
 This is possible but there are some caveats. Once a token has been minted to a specific Ethereum address it can't be moved to another one. We handle these requests on a case by case basis, we recommend getting in contact on the #support channel on our [Discord](https://discord.gg/2whPWbq)
@@ -51,3 +50,6 @@ This will allow you to add and remove artworks, change the title, description an
 ## Is there a way to re-arrange the order my collections? 
 The best way to do this is by updating the collection. The order is defined by last update, with the newest appearing at the top.
 
+## How does Unlockable content work?
+
+Read more about this here [unlockable content](/guide/unlockable-content)
