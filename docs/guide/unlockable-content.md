@@ -34,8 +34,9 @@ A few potential use cases which the team put forward:
 
 **A creator can update unlockable content.** This allows creators to update any broken links which they have previously
 specified, also allowing them to experiment with changing incentives for collectors on primary and secondary market.
+We record all changes made so we can audit and help in any problems which may arise. 
 
-**Unlockable content is the same all tokens for an edition.** For example, an edition of 10, all 10 tokens will receive
+**Unlockable content is the same for all tokens in an edition.** For example, an edition of 10, all 10 tokens will receive
 the same unlockable content.
 
 **Unlockable content can be retrieved on the primary and secondary markets**. The only stipulation is the content can
@@ -45,8 +46,8 @@ by the previous owner.
 **The creator is responsible for maintainability of externally linked content**. The current implementation allows for
 creators to set a link and a message, any externally linked content is not maintained by KnownOrigin.
 
-**There is no limit on how many times the content can be viewed**. This first version we dont restrict the numbers of redeemable
-times an owner can view it. We do record each attempt internally for an audit trail. 
+**There is no limit on how many times the content can be viewed**. This first version we dont restrict the number of
+times an owner can view it. We do record each attempt internally for an audit trail though.
 
 **Content must adhere to the community code of conduct**. Further details can be found on [here](/guide/code-of-conduct/). 
 
