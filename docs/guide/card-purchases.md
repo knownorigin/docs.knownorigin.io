@@ -1,9 +1,10 @@
 # Making card payments
 
-#### You can now **buy art** and **top-up** your **ETH** balance directly from with your credit or debit card.
+**You can now **buy art** and **top-up** your **ETH** balance directly from with your credit or debit card.**
 
 We have partnered with a new payment provider [wert.io](https://wert.io/) which facilitates all card to cryptocurrency
-transactions.
+transactions but with the added bonus to buy your favourite NFTs and CryptoArt directly in a single card purchase, the
+tokens landing directly in your wallet.
 
 ## Buy with card
 
@@ -72,6 +73,31 @@ common solution to your problem.
 - If you have copied or been presented with a transaction hash then check on [etherscan](https://etherscan.io/) for its
   status
 - Check the email address you used for any correspondents
-- [Wert Support Homse](https://support.wert.io/en/)
-- [Wert FAQ](https://support.wert.io/en/articles/5061840-faq)
+- [wert](https://wert.io/about-us)
+- [wert Support Homse](https://support.wert.io/en/)
+- [wert FAQ](https://support.wert.io/en/articles/5061840-faq)
 - [KO Discord Support](https://discord.gg/6SwA2n4)
+
+```
+Wert.io website is operated by SHA2 Solutions OU (Reg. code 14952299).
+
+US office
+
+SHA2 Solutions Inc
+Address: 251 Little Falls Drive,
+Wilmington, Delaware 19808
+
+Phone: +1 662 727 1642
+Email: info@wert.io
+
+Estonian office
+
+SHA2 Solutions OÜ
+Address: Erika 14, Office 212,
+10416, Tallin, Estonia
+
+Phone: +372 60 28560
+Email: info@wert.io
+
+For law enforecment agencies: lea@wert.io
+```
