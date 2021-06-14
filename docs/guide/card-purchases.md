@@ -1,4 +1,4 @@
-# Making payments with credit cards
+# Making card payments
 
 #### You can now **buy art** and **top-up** your **ETH** balance directly from with your credit or debit card.
 
