@@ -65,14 +65,15 @@ module.exports = {
                 'joining-ko-as-an-artist',
                 'artist-referrals',
                 'what-is-an-edition',
-                'drops',
                 'creating-a-profile',
+                'drops',
               ]
             },
             {
               title: 'How to Guides?',
               collapsable: true,
               children: [
+                'card-purchases',
                 'user-socials-verification',
                 'unlockable-content',
                 'creating-editions',

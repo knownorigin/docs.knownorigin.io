@@ -16,7 +16,7 @@ tokens landing directly in your wallet.
 
 <img :src="$withBase('/credit-card-purchases/buy-with-card.png')" height="250">
 
-3. Once you are ready with your card in hard, `confirm` the transaction and start the purchase flow
+3. Once you are ready with your card in hand, `confirm` the transaction and start the purchase flow
 
 <img :src="$withBase('/credit-card-purchases/buy-now-confirmation.png')" height="400">
 
