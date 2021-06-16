@@ -2,7 +2,7 @@
 
 **You can now **buy art** and **top-up** your **ETH** balance directly from with your credit or debit card.**
 
-We have partnered with a new payment provider [wert.io](https://wert.io/) which facilitates all card to cryptocurrency
+We have partnered with a new payment provider [Wert.io](https://wert.io/) which facilitates all card to cryptocurrency
 transactions but with the added bonus to buy your favourite NFTs and CryptoArt directly in a single card purchase, the
 tokens landing directly in your wallet.
 
@@ -67,15 +67,17 @@ plan.
 
 ## Troubleshooting
 
-If you are stuck, head over to the [wert FAQ](https://support.wert.io/en/articles/5061840-faq) to see if there is a
+If you are stuck, head over to the [Wert FAQ](https://support.wert.io/en/articles/5061840-faq) to see if there is a
 common solution to your problem.
 
 - If you have copied or been presented with a transaction hash then check on [etherscan](https://etherscan.io/) for its
   status
 - Check the email address you used for any correspondents
-- [wert](https://wert.io/about-us)
-- [wert Support Homse](https://support.wert.io/en/)
-- [wert FAQ](https://support.wert.io/en/articles/5061840-faq)
+- [Wert](https://wert.io/about-us)
+- [Wert Support Homse](https://support.wert.io/en/)
+- [Wert FAQ](https://support.wert.io/en/articles/5061840-faq)
+- [Supported Countries](https://support.wert.io/en/articles/5194509-supported-countries)
+- [Supported US States](https://support.wert.io/en/articles/5194514-supported-us-states)
 - [KO Discord Support](https://discord.gg/6SwA2n4)
 
 ```
