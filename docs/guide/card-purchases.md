@@ -2,7 +2,7 @@
 
 **You can now **buy art** and **top-up** your **ETH** balance directly from with your credit or debit card.**
 
-We have partnered with a new payment provider [Wert.io](https://wert.io/) which facilitates all card to cryptocurrency
+We have partnered with a new payment solution [Wert.io](https://wert.io/) which facilitates all card to cryptocurrency
 transactions but with the added bonus to buy your favourite NFTs and CryptoArt directly in a single card purchase, the
 tokens landing directly in your wallet.
 
