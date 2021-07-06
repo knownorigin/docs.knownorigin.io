@@ -63,7 +63,7 @@ module.exports = {
               children: [
                 'frequently-asked-questions',
                 'joining-ko-as-an-artist',
-                'artist-referrals',
+                // 'artist-referrals', // disabled for now
                 'what-is-an-edition',
                 'creating-a-profile',
                 'drops',

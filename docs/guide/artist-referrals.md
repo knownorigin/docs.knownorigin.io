@@ -22,6 +22,12 @@ canonicalUrl: https://docs.knownorigin.io/guide/artist-referrals
 
 # Artist Referrals
 
+    
+    🚨 ARTISTS REFERRALS ARE NOT IN PLAY AT THE MOMENT 🚨
+    
+    👉 WE WILL UPDATE EVERYONE ONCE THEY ARE REINSTATED 👈 
+    
+
 ## What are referrals?
 
 These are a way of verified artists to refer other creatives in their network and vouch for them as part of the application process
