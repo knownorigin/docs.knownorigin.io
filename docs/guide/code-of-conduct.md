@@ -37,14 +37,14 @@ As Google says "Don't be evil", if you see something that you think isn’t righ
 * We will not give preferential treatment to anyone, treat all as equal
 * We will try to resolve all problems as quick as possible and in a timely fashion
 * We will try to help out all community members when problems arise
-* Be transparent with what we are working
-* Maintain open communications on Discord, Telegram and out community calls 
+* Be transparent with what we are working on
+* Maintain open communications on Discord, Telegram and our community calls 
 * Ensure all smart contract code is open sourced
-* We will never ask anyone from a private key, password or any type of cryptocurrency
+* We will never ask anyone for a private key, password or any type of cryptocurrency
 
-For further details can be found on our [privacy policy](https://medium.com/knownorigin/privacy-policy-f19849a518c1) and our [terms and conditions](https://medium.com/knownorigin/terms-of-service-3efae6d0c20f)
+Further details can be found on our [privacy policy](https://medium.com/knownorigin/privacy-policy-f19849a518c1) and our [terms and conditions](https://medium.com/knownorigin/terms-of-service-3efae6d0c20f)
 
-Please fork/bring to our attention other items which are missing from the list above. 
+Please bring to our attention other items which are missing from the list above. 
 
 This is our first time making one of these, and we'd love for the community to be more involved.
 

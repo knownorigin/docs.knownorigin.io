@@ -58,33 +58,80 @@ module.exports = {
           children: [
             '',
             {
-              title: 'Commonly Asked Questions',
+              title: 'FAQ',
               collapsable: true,
               children: [
                 'frequently-asked-questions',
+                'primary-vs-secondary-market',
                 'joining-ko-as-an-artist',
-                // 'artist-referrals', // disabled for now
-                'what-is-an-edition',
                 'creating-a-profile',
-                'drops',
               ]
             },
             {
-              title: 'How to Guides?',
+              title: 'Tokens',
+              collapsable: true,
+              children: [
+                'what-is-the-difference-between-an-edition-and-a-token',
+                'token-versions',
+              ]
+            },
+            {
+              title: 'Collecting and listing',
               collapsable: true,
               children: [
                 'card-purchases',
-                'user-socials-verification',
-                'unlockable-content',
-                'creating-editions',
-                'artwork-management',
-                'donating-to-charity',
-                'supported-formats',
-                'video-encoding',
-                'trending-engine',
-                'verify-on-discord',
+                'selling-tokens-from-your-collection',
+                'auction-types-for-collectors',
               ]
             },
+            {
+              title: 'Minting',
+              collapsable: true,
+              children: [
+                'creating-editions',
+                'supported-formats',
+                'video-encoding'
+              ]
+            },
+            {
+              title: 'Managing artwork',
+              collapsable: true,
+              children: [
+                'setting-a-minimum-bid',
+                'unlockable-content',
+                'supported-formats',
+                'changing-sales-type',
+                'how-to-delete-burn-tokens',
+                'how-to-send-counter-offers',
+              ]
+            },
+            {
+              title: 'Community',
+              collapsable: true,
+              children: [
+                'artwork-management',
+                'verify-on-discord',
+                'trending-engine',
+                'donating-to-charity',
+                'drops',
+              ]
+            },
+            // {
+            //   title: 'How to Guides?',
+            //   collapsable: true,
+            //   children: [
+            //     'card-purchases',
+            //     'user-socials-verification',
+            //     'unlockable-content',
+            //     'creating-editions',
+            //     'artwork-management',
+            //     'donating-to-charity',
+            //     'supported-formats',
+            //     'video-encoding',
+            //     'trending-engine',
+            //     'verify-on-discord',
+            //   ]
+            // },
             {
               title: 'Misc',
               collapsable: true,
