@@ -99,7 +99,6 @@ module.exports = {
               children: [
                 'setting-a-minimum-bid',
                 'unlockable-content',
-                'supported-formats',
                 'changing-sales-type',
                 'how-to-delete-burn-tokens',
                 'how-to-send-counter-offers',
