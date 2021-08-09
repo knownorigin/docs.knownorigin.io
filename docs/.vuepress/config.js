@@ -80,7 +80,7 @@ module.exports = {
               collapsable: true,
               children: [
                 'card-purchases',
-                'selling-tokens-from-your-collection',
+                'listing-tokens-from-your-collection',
                 'auction-types-for-collectors',
               ]
             },
@@ -102,35 +102,19 @@ module.exports = {
                 'changing-sales-type',
                 'how-to-delete-burn-tokens',
                 'how-to-send-counter-offers',
+                'how-to-transfer-token',
               ]
             },
             {
               title: 'Community',
               collapsable: true,
               children: [
-                'artwork-management',
                 'verify-on-discord',
                 'trending-engine',
                 'donating-to-charity',
                 'drops',
               ]
             },
-            // {
-            //   title: 'How to Guides?',
-            //   collapsable: true,
-            //   children: [
-            //     'card-purchases',
-            //     'user-socials-verification',
-            //     'unlockable-content',
-            //     'creating-editions',
-            //     'artwork-management',
-            //     'donating-to-charity',
-            //     'supported-formats',
-            //     'video-encoding',
-            //     'trending-engine',
-            //     'verify-on-discord',
-            //   ]
-            // },
             {
               title: 'Misc',
               collapsable: true,

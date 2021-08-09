@@ -28,7 +28,7 @@ specification and will be displayed in most wallets and other third party sites 
 Currently, we support a **max edition size of 25**.
 
 Once an edition is created, the **edition size** is set in stone, you cannot increase it, you can however 
-reduce it via [artwork management](./artwork-management.md)   
+reduce it.
 
 Scarcity vs abundance comes into play when making the choice about edition size.
 We support and promote both `single-edition` and `multi-edition` artworks. 
@@ -39,7 +39,6 @@ scarcity vs abundance, ultimately it's your call.
 
 Setting this means a collector will only be able to _make you an offer_ and not directly purchase your work at a _buy now_ price.
 
-This options can be controlled once an edition has been minted via [artwork management](./artwork-management.md).
 
 **Price**
 
