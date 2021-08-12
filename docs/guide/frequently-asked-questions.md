@@ -43,6 +43,12 @@ Yes this is possible, we have provided a few useful articles which will help you
 
     DO NOT SHARE YOUR PRIVATE KEYS WITH ANYONE ... EVER!
 
+## Cancel I cancel a stuck transaction
+
+Yes, this is possible but its slightly complex and now guaranteed to work. 
+
+Etherscan has a handy guide on the subject which holds most of the answers on how to do this [Cancelling transactions](https://info.etherscan.com/how-to-cancel-ethereum-pending-transactions/#replacing-cancel-pending-transactions)
+
 ## Can I edit an existing collection?
 You can edit an existing collection, this is done by selecting the 3 DOTS, upon clicking you will see the edit button. 
 This will allow you to add and remove artworks, change the title, description and finally save your changes
