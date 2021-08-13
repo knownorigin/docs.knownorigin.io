@@ -15,21 +15,54 @@ For V3 we have created a new minting portal to mint your work, build collectives
 
 <img width="70%" src="https://storage.googleapis.com/public-blog-asset/doc-site/initial-slide-minter.png">
 
-#### Artwork detailes
+#### Select the type of NFT you have to create
 
-This section allows you to set the **name** and **description** of your artwork. 
-A good description can help collectors to understand the artwork more easily. These are also part of the ERC721 token 
+For V3 we have created a new minting portal to mint your work, build collectives and create composable NFTs. Here we want to mint a work so you will need to select 'Create NFTs'.
+
+<img width="70%" src="https://storage.googleapis.com/public-blog-asset/doc-site/second-slide-minter.png">
+
+#### Uploading your work to IPFS
+
+Here you will upload the piece that you are going to mint. You simply need to drag in the file you wish to upload or use the file explorer to find the file. Your work will then be uploaded to [IPFS](./what-is-an-edition/#what-data-do-we-store-on-ipfs) 
+
+*note this page may look slightly different depending on what type of NFT you are trying to mint
+
+<img width="70%" src="https://storage.googleapis.com/public-blog-asset/doc-site/third-slide-minter.png">
+
+#### Adding your artwork details
+
+This section allows you to set the details of your artwork. A good description can help collectors to understand the artwork more easily. Here you will also set if the edition size of your work which can be from a single unique edition to an edition of 100. You will also set the tags, format and themes of your work which we are vital to help people discover your work so being accurate here is important. Finally, you will set the [auction type](../auction-types) you wish to use to sell your work. These are also part of the ERC721 token 
 specification and will be displayed in most wallets and other third party sites which support NFTs.
 
-<table><tr><td>
-<img :src="$withBase('/creating-editions/artwork-details.png')">
-</td></tr></table>
+<img width="70%" src="https://storage.googleapis.com/public-blog-asset/doc-site/fifth-slide-minter.png">
 
-#### Edition Size and Price  
+#### Setting a price and agreeing to our terms
+
+Here you will need to set you buy it now or reserve price in ETH depending on the auction type you have chosen. You will also need to tick the boxes to agree to all of our [terms and conditions](https://medium.com/knownorigin/terms-of-service-3efae6d0c20f)
+
+<img width="70%" src="https://storage.googleapis.com/public-blog-asset/doc-site/sixth-slide-minter.png">
+
+#### Confirming your details and minting your work
+
+Here you will get to see all the information you have filled in and confirm all the details as you will not be able to alter it once you have minted so here your chance to make any changes. You will also be given a prediction of the [gas fee](./frequently-asked-questions/#what-is-gas) for minting your work.
+
+<img width="70%" src="https://storage.googleapis.com/public-blog-asset/doc-site/eighth-slide-minter.png">
+
+Once you are happy with everything you can click 'mint artwork' at the bottom of the page which will trigger a Metamask transaction, and it will be minted!
+
+#### Sharing your new mint
+
+Now that you have minted your work you need to share it!
+
+<img width="70%" src="https://storage.googleapis.com/public-blog-asset/doc-site/ninth-slide-minter.png">
+
+You will also be able to visit the page of your new work (please wait a few minutes for your work to appear). You can also see how many uploads you have left in your 30 day period and even mint another piece. 
+
+#### More on edition size and price  
 
 **Edition size**
 
-Currently, we support a **max edition size of 25**.
+Currently, we support a **max edition size of 100**.
 
 Once an edition is created, the **edition size** is set in stone, you cannot increase it, you can however 
 reduce it.
@@ -37,16 +70,9 @@ reduce it.
 Scarcity vs abundance comes into play when making the choice about edition size.
 We support and promote both `single-edition` and `multi-edition` artworks. 
 Please reach out on [Discord](https://discord.gg/2whPWbq) to speak to other artists about this age-old topic of 
-scarcity vs abundance, ultimately it's your call. 
-
-**Accepting offers only**
-
-Setting this means a collector will only be able to _make you an offer_ and not directly purchase your work at a _buy now_ price.
-
+scarcity vs abundance, ultimately it's your call.
 
 **Price**
-
-If set, this is the `ETH` price for an individual token.
 
 Pricing is hard from our experience, especially for new comers to the space, please reach out on 
 [Discord](https://discord.gg/2whPWbq) to speak to other artists on this subject. 
@@ -72,11 +98,6 @@ _**To note:** we only support whole numbers for percentage splits, so if a split
 <img :src="$withBase('/creating-editions/collaborators.png')">
 </td></tr></table>
 
-#### Artwork and tagging
-
-You can **tag** your artwork using up to 25 tags. Try to be as accurate as possible as these tags power searching 
-and classification of your artwork. They also may be visible on third party sites.
- 
 #### Uploading artwork and Cover images
 
 More details about [supported formats](./supported-formats.md)   
