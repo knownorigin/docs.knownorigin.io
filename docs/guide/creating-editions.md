@@ -7,9 +7,13 @@ allowing you to customise certain aspects of your work. Below we cover some of t
 
 First visit your profile, once you are enabled on KO you will see a button like this, click it and then proceed to fill in the relevant information. 
 
-<table><tr><td>
-<img :src="$withBase('/creating-editions/minting-button.png')">
-</td></tr></table>
+<img width="50%" src="https://storage.googleapis.com/public-blog-asset/doc-site/uploader-artwork-button.png">
+
+#### New minting portal
+
+For V3 we have created a new minting portal to mint your work, build collectives and create composable NFTs. Here we want to mint a work so you will need to select 'Create NFTs'.
+
+<img width="70%" src="https://storage.googleapis.com/public-blog-asset/doc-site/initial-slide-minter.png">
 
 #### Artwork detailes
 
@@ -54,7 +58,7 @@ There is currently a minimum price of _0.01 ETH_.
 You must adhere to copyright, originality and KO's terms and conditions when minting. Reputation is king in this space, so
  we ask those involved to respect other artists and collectors in these regards.
 
-#### Collaborations
+#### Collectives
 
 You can set another `Ethereum` address as a collaborator which you can then allocate a percentage of funds to on every sale,
  this works on both primary and secondary sales when they happen on the KO platform.

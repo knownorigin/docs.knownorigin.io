@@ -16,7 +16,17 @@ In general these two pieces of data define the blue print for what an edition is
 
 ### What data is stored on-chain
 
-When an edition is minted the following items are defined and recorded on-chain:
+When a V3 edition is minted the following items are defined and recorded on-chain:
+
+```solidity
+   struct EditionDetails {
+    address creator; // primary edition/token creator
+    uint16 editionSize; // onchain edition size
+    string uri; // the referenced metadata
+}
+```
+
+This is what is stored on a V2 edition, notice it is much longer this is because we are able to extrapolate all the necessary data from the information above. We did this to make performing actions with the tokens much more gas efficient and consequently cheaply!
 
 ```solidity
   struct EditionDetails {
@@ -60,7 +70,7 @@ all tokens individually.
 It's not all roses though, this comes with some trade-offs - primarily being that all the tokens don't appear immediately in a creator's wallet or account.
 If needed, as a creator you can however gift tokens to yourself which then causes them to appear on sites such as OpenSea and CryptoVoxels.
 
-In the future we may evolve this method as we are all learning the best approach to create and sell digital assets, for now though this is how KO works.
+With the latest version of KO (V3) we have managed to resolve this issue whilst maintaining gas efficiency.
 
 ### What data do we store on IPFS?
 
@@ -76,25 +86,25 @@ A sample `JSON` blob we store on IPFS can be seen below:
 
 ```json
 {
-    "name": "Test",
-    "description": "Test",
-    "attributes": {
-        "artist": "KnownOrigin",
-        "scarcity": "rare",
-        "tags": [
-            "abstract",
-            "acrylics",
-            "another-tag"
-        ],
-        "asset_type": "video/mp4",
-        "asset_size_in_bytes": 38247618,
-        "cover_image_type": "image/png",
-        "cover_image_size_in_bytes": 7588405
-    },
-    "external_uri": "https://knownorigin.io/artists/0x3f8c962eb167ad2f80c72b5f933511ccdf0719d4",
-    "image": "https://ipfs.infura.io/ipfs/QmbayRoC4vECrNiJ3yAFK3YQ9MzAfhKgpAspNLRSBc8ZeV/asset.png",
-    "animation_url": "https://ipfs.infura.io/ipfs/QmSoBGYCdZi1zMkZJytiYbyCG3dPKaG4fJmyQzAKihKfW3/asset.mp4",
-    "artist": "0x3f8c962eb167ad2f80c72b5f933511ccdf0719d4"
+  "name": "Test 360",
+  "description": "Test 360",
+  "attributes": {
+    "artist": "KnownOrigin",
+    "scarcity": "rare",
+    "format": "Craft",
+    "theme": "Cubism",
+    "tags": [
+      "2020",
+      "360 image sphere"
+    ],
+    "asset_type": "image/jpeg",
+    "asset_size_in_bytes": 8290426,
+    "production_year": "2021"
+  },
+  "artist": "0x3f8c962eb167ad2f80c72b5f933511ccdf0719d4",
+  "external_uri": "https://knownorigin.io/0x3f8c962eb167ad2f80c72b5f933511ccdf0719d4",
+  "image": "ipfs://QmQLWzxLgmhCUMJ3oa3qE2btvbVPTPUZNEKKwPRvPsocsG/asset.jpg",
+  "image_sphere": true
 }
 ```
 

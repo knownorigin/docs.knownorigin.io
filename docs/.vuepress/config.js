@@ -81,7 +81,7 @@ module.exports = {
               children: [
                 'card-purchases',
                 'listing-tokens-from-your-collection',
-                'auction-types-for-collectors',
+                'auction-types',
               ]
             },
             {
