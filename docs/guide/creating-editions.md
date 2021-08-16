@@ -86,17 +86,22 @@ You must adhere to copyright, originality and KO's terms and conditions when min
 
 #### Collectives
 
-You can set another `Ethereum` address as a collaborator which you can then allocate a percentage of funds to on every sale,
- this works on both primary and secondary sales when they happen on the KO platform.
+You can currently set up to 5 `Ethereum` addresses as a collective collaborators on future work. These allow you to allocate a percentage of funds to on every sale, this works on both primary and secondary sales when they happen on the KO platform. You can set up new collectives through the minting portal and selecting the 'Build collectives' option.
 
-You can currently specify a set of predefined percentages when minting such as 10%, 25%, 50% etc.
+<img width="70%" src="https://storage.googleapis.com/public-blog-asset/doc-site/initial-slide-minter.png">
+
+After clicking through you will be able to see any collectives that either you have created or that others have created, and you are a part of. In the bottom right side of the page you will have the option to 'create collective'.
+
+<img width="70%" src="https://storage.googleapis.com/public-blog-asset/doc-site/collectives-initial-page.png">
+
+Here you will be able to add your collaborators to your collectives via their wallet addresses. To add more or remove collaborators you can use the '+' and '-' buttons. You can also set the royalty allocations for each individual which can be from 1% to 99% as long as they add up to a total of 100%. You can then click deploy collectives which will launch a transaction which once complete will create the collective. This collective can now be used indefinitely but will be tied to the conditions of how it was initially constructed.
+
+<img width="70%" src="https://storage.googleapis.com/public-blog-asset/doc-site/collectives-second-page.png">
+
+In the future we hope to introduce greater functionality to these collectives such as governance and the ability to sell future royalties from the collectives.
 
 _**To note:** we only support whole numbers for percentage splits, so if a split of 50/50 happens, taking into account 
 [KO fees](./fee-strucutre.md) this means that the collaborator may receive 1% less than the other part due to rounding up or down._
-
-<table><tr><td>
-<img :src="$withBase('/creating-editions/collaborators.png')">
-</td></tr></table>
 
 #### Uploading artwork and Cover images
 
