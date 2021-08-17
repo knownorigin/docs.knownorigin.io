@@ -26,7 +26,7 @@ When a V3 edition is minted the following items are defined and recorded on-chai
 }
 ```
 
-This is what is stored on a V2 edition, notice it is much longer this is because we are able to extrapolate all the necessary data from the information above. We did this to make performing actions with the tokens much more gas efficient and consequently cheaply!
+Below is what is stored on a V2 edition, notice it is much longer, this is because we are able to extrapolate all the necessary data from the information above. We did this to make performing actions with the tokens much more gas efficient and consequently cheaper!
 
 ```solidity
   struct EditionDetails {
@@ -74,7 +74,7 @@ With the latest version of KO (V3) we have managed to resolve this issue whilst 
 
 ### What data do we store on IPFS?
 
-[IPFS](https://ipfs.io/) _(unfortunately)_ stands for InterPlanetary File System, although not a great name in my opinion.
+[IPFS](https://ipfs.io/) _(unfortunately)_ stands for InterPlanetary File System, although not a great name in our opinion.
 The InterPlanetary File System is a protocol and peer-to-peer network for storing and sharing data in a distributed file system.
 
 The IPFS network enabled files to be uploaded and stored by a network of willing participants, in a network of peer-to-peer nodes.
@@ -112,8 +112,8 @@ _Note: - not all tokens have the same metadata, as the project has evolved some 
 
 IPFS, although used widely due to some of the properties mentioned above, it also has some downsides.
 The main problem is how it relies on trusted or incentivised parties, such as KnownOrigin, to always maintain a copy of that data.
-However, the good thing is that anyone, really anyone can also maintain this same data, anymore can participate in its
+However, the good thing is that anyone, really anyone can also maintain this same data, anyone can participate in its
 upkeep by simply deciding to also store the files.
 
 We have been looking at alternatives such as Arweave and FileCoin, along with others.
-In the future may consider leveraging additional storage options if required to do so.  
+In the future we may consider leveraging additional storage options if required to do so.  

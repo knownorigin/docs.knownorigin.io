@@ -1,6 +1,6 @@
 # Setting a minimum-bid on your work
 
-We allow you to set a minimum-bid on your work after minting. This means that collectors will only be able to place bids which equal or exceed the minimum you have set. This is all done off-chain can be done free of charge.
+We allow you to set a minimum-bid on your work after minting. This means that collectors will only be able to place bids which equal or exceed the minimum you have set. This is all done off-chain so is free of charge.
 
 
  <img src="https://storage.googleapis.com/public-blog-asset/doc-site/delete-button-profile.png" alt="button showing delete" width="20%"> 

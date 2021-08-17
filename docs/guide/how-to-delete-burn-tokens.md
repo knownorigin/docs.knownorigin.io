@@ -4,4 +4,4 @@ If you wish to remove your token from the marketplace permanently, we offer the 
 
  <img src="https://storage.googleapis.com/public-blog-asset/doc-site/delete-button-profile.png" alt="button showing delete" width="20%"> 
 
-When you click the red 'Delete / Burn' button it will launch another window asking you if you are sure. If you confirm, it will launch a metamask transaction to burn the token. Once the transaction goes through, the artwork will no longer exist.
+When you click the red 'Delete / Burn' button it will launch another window asking you if you are sure. If you confirm, it will launch a transaction to burn the token. Once the transaction goes through, the artwork will no longer exist.

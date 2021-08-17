@@ -4,6 +4,6 @@ Currently, there are two ways for you to list the art you have collected for sal
 
  <img src="https://storage.googleapis.com/public-blog-asset/doc-site/sell-this-item-modal.png" width="50%"> 
 
-Here you will simply need to enter the price you want to list the token for and confirm which will launch a metamask transaction to complete the listing process.
+Here you will simply need to enter the price you want to list the token for and confirm which will launch a transaction to complete the listing process.
 
 

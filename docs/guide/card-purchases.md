@@ -3,7 +3,7 @@
 **You can now **buy art** and **top-up** your **ETH** balance directly from with your credit or debit card.**
 
 We have partnered with a new payment solution [Wert.io](https://wert.io/) which facilitates all card to cryptocurrency
-transactions but with the added bonus to buy your favourite NFTs and CryptoArt directly in a single card purchase, the
+transactions but with the added bonus to buy your favourite NFTs and CryptoArt directly in a single card purchase, with the
 tokens landing directly in your wallet.
 
 ## Buy with card
@@ -20,7 +20,7 @@ tokens landing directly in your wallet.
 
 <img :src="$withBase('/credit-card-purchases/buy-now-confirmation.png')" height="400">
 
-4. Enter your card details and address details, completing any additional KYC/AML steps if requested.
+4. Enter your card and address details, completing any additional KYC/AML steps if requested.
 
 <img :src="$withBase('/credit-card-purchases/enter-card-details.png')" height="500">
 
@@ -34,16 +34,15 @@ tokens landing directly in your wallet.
 
 **If any problems arise, you will receive the purchased ETH directly to your wallet.**
 
-7. Send your self an email receipt for you records.
+7. Send yourself an email receipt for you records.
 
 <img :src="$withBase('/credit-card-purchases/email-receipt.png')" height="200">
 
-We will be expanding this in the future to include secondary sales if this trial is well-received and works goes to
-plan.
+We will be expanding this in the future to include secondary sales if this trial is well-received and works go to plan.
 
 ## Add funds from card
 
-**Use this to top-up your Ethereum address directly from KO and using your credit/debit card.**
+**Use this to top-up your Ethereum address directly from KO using your credit/debit card.**
 
 1. Login to your profile click `Add funds` to launch the top-up flow.
 
