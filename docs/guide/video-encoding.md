@@ -1,10 +1,10 @@
 # Video Encoding
 
-unfortunately not all browser support every format, KO does not currently do any pre-processing on the videos that are minted to counter against this.
+Unfortunately not all browsers support every format, KO does not currently do any pre-processing on the videos that are minted to counter against this.
 
 ## Suggestions
 
-Across browsers, there are many different standards and supported codecs. These are the settings we have found that offer the best cross browser support on mobile and desktop.
+Across browsers, there are many standards and supported codecs. These are the settings we have found that offer the best cross browser support on mobile and desktop.
 
 Using adobe media encoder (available with Adobe CC subscription), there are some presets that work very well, and require minimal setting changes. Start by dragging or importing your file into the viewport. Then click on the text next to the dropdown to change the preset (highlighted below).
 

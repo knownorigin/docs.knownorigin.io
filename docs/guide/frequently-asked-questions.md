@@ -8,16 +8,14 @@ Gwei is a denomination of the cryptocurrency ether (ETH), which is used on the E
 
 Gwei is the most commonly used unit of ether because "gas" prices are easily specified in gwei. For example, instead of saying that your gas costs 0.000000001 ether, you can say your gas costs 1 gwei.
 
-## Why does it cost so much to mint?
+## Why do I have to pay to mint?
 The Ethereum network is constantly processing transactions based on demand, it naturally has spikes in usage at various times or driven by things happening in the ecosystem, therefore, the price of gas will rise and fall inline with this demand.
-
-The current version of the smart contracts cost 400k gas to mint a new edition. We are working on new smart contracts to improve the efficiency of blockchain interaction.
-
-> Today with ETH at approx $1500 and sending a transaction with 50 gwei gas price (about average for Jan. 2021) it costs around $30.
  
 Note: As a consequence the cost of minting a piece of work will also increase if you attempt to mint in a period of intense usage. 
 
-If you have been quoted an unusually high price for minting we recommend you hold off and keep checking a gas price checker like this one [GAS Now](https://www.gasnow.org/) till the price has normailsed. If the average price of gas is above 75 gwei we would recommend waiting till the price drops again. You are also able to send a transaction through at a lower price than the average, though these do take a bit longer than those sent through at higher gas.
+When you are minting a work you will be given a prediction of how much the mint will cost in dollars.
+
+If you have been quoted an unusually high price for minting we recommend you hold off and keep checking a gas price checker like this one [GAS Now](https://www.gasnow.org/) till the price has normailsed.
 
 ## How do I set a minimum bid on my artwork?
 We allow you to set a minimum bid on your artwork which means that anyone looking to bid on your work must make a bid at or above what you have set as a minimum. To set this you will need to click on the three dot button (⋯) on artworks that:
@@ -52,8 +50,14 @@ Yes this is possible, we have provided a few useful articles which will help you
 
     DO NOT SHARE YOUR PRIVATE KEYS WITH ANYONE ... EVER!
 
+## Can I cancel a stuck transaction
+
+Yes, this is possible but its slightly complex and not guaranteed to work. 
+
+Etherscan has a handy guide on the subject which holds most of the answers on how to do this [Cancelling transactions](https://info.etherscan.com/how-to-cancel-ethereum-pending-transactions/#replacing-cancel-pending-transactions)
+
 ## Can I edit an existing collection?
-You can edit an existing collection, this is done by selecting the 3 DOTS, upon clicking you will see the edit button. 
+You can edit an existing collection, this is done by selecting the 3 dots (...) menu, upon clicking you will see the edit button. 
 This will allow you to add and remove artworks, change the title, description and finally save your changes
 
 ## Is there a way to re-arrange the order my collections? 

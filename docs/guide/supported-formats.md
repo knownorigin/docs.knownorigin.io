@@ -12,13 +12,12 @@ We currently support the following file formats:
     - `75mb` for main asset
     - `25mb` for cover images
 
-Cover images are **mandatory** when using video or 3D models - this will enabled the token to be better 
-represented on other websites and wallets which do not support these media types.
+Cover images are **mandatory** when using video or 3D models - this will enable the token to be better represented on other websites and wallets which do not support these media types.
 
 #### Image/artwork usage
 
 You must adhere to copyright, originality and KO terms and conditions when minting. Reputation is king in this space, so
- we ask those involved to respect other artists and collectors in these regards.
+ we ask those involved to respect other artists and collectors.
 
 ## 3D artwork
 
@@ -60,7 +59,7 @@ We use the open source viewer known as [pannellum](https://pannellum.org) to ren
 **The maximum image size should be preferably limited to 4096px wide; 8192px is also acceptable for most devices.**
 
 **One point to note: 
-Service such as OpenSea or Rarible currently do not know how to render this type of image, so they are displayed flat.
+Services such as OpenSea or Rarible currently do not know how to render this type of image, so they are displayed flat.
 Hopefully this will change in the future**
 
 In the future we can iterate on this current solution and look to include 360 videos and other new 360 formats. 

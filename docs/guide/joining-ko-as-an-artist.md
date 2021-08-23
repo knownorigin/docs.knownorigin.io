@@ -4,7 +4,7 @@
 
 Start off by making a profile on KO and filling in this [form](https://knownorigin.io/artist-application).  
 
-The application window will open soon, stay tuned!
+The application window opens once the last batch has been processed, stay tuned to our socials to find out when the next window opens!
 
 ## What will I need to apply?
 
@@ -20,7 +20,7 @@ We appreciate your patience. Once you have been approved and verified, artists w
 
 ## Can I re-apply?
 
-Yes, we welcome this just review your profile, and your portfolio to make sure it is the best it can be.
+Yes, we welcome this! Just review your profile, and your portfolio to make sure it is the best it can be.
 
 ## How does the process work?
 

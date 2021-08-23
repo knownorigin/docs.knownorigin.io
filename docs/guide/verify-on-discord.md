@@ -41,7 +41,7 @@ We realise this is not super simple but it works and will help make the Discord 
 ![](https://i.imgur.com/3Huax21.png)
 
 5. Connect your wallet to identify your **public** key. We never ask for your private key...ever.
-6. Sign a offchain message (this costs no GAS) and lets the bot link you discord user to your KO account (identified by your public key on Ethereum)
+6. Sign a offchain message (this costs no GAS) and lets the bot link your discord user to your KO account (identified by your public key on Ethereum)
 8. When it says _"Authentication successful you may return to discord"_ head back to discord's `#🤖-botty-mcbotface` channel. 
 9. Type `!ko claim` and you will get roles you are due. You see a little green tick when this work.
 
