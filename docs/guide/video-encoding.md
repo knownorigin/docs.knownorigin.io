@@ -1,7 +1,13 @@
 # Video Encoding
 
-Unfortunately not all browsers support every format, KO does not currently do any pre-processing on the videos that are minted to counter against this.
+Unfortunately not all browsers support every format.
 
+We would like to thank the fantastic KO artist [waltondesign](https://knownorigin.io/waltondesign) for putting this guide together.
+
+Fruther guidance on cross browser support for video formats can be found here:
+* https://caniuse.com/mpeg4
+* https://caniuse.com/webm
+* 
 ## Suggestions
 
 Across browsers, there are many standards and supported codecs. These are the settings we have found that offer the best cross browser support on mobile and desktop.
@@ -29,6 +35,4 @@ When changing target bitrate, a lower number equals more compression. You should
 Once done, hit okay (which will close the window), and then hit play in the top right corner of Media Encoder to begin the encoding.
 
 This does not guarantee your file to play on all browsers without issue, but it is a good start and should work in most cases. If you are concerned about any playback issues, test your final file in as many ways as you can on as many devices as possible before minting.
-
-We would like to thank the fantastic KO artist [waltondesign](https://knownorigin.io/waltondesign) for putting this guide together.
 
