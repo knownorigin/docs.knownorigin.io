@@ -4,10 +4,10 @@ Unfortunately not all browsers support every format.
 
 We would like to thank the fantastic KO artist [waltondesign](https://knownorigin.io/waltondesign) for putting this guide together.
 
-Fruther guidance on cross browser support for video formats can be found here:
-* https://caniuse.com/mpeg4
-* https://caniuse.com/webm
-* 
+Further guidance on cross browser support for video formats can be found here:
+* [https://caniuse.com/mpeg4](https://caniuse.com/mpeg4)
+* [https://caniuse.com/webm](https://caniuse.com/webm)
+
 ## Suggestions
 
 Across browsers, there are many standards and supported codecs. These are the settings we have found that offer the best cross browser support on mobile and desktop.
