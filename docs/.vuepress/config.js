@@ -65,6 +65,7 @@ module.exports = {
                 'primary-vs-secondary-market',
                 'joining-ko-as-an-artist',
                 'creating-a-profile',
+                'user-socials-verification'
               ]
             },
             {
