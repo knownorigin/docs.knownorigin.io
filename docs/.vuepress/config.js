@@ -38,22 +38,18 @@ module.exports = {
     editLinkText: 'Help us improve this page!',
     nav: [
       {
-        text: 'Guides',
+        text: 'Users',
         link: '/guide/',
       },
-      // {
-      //   text: 'Config',
-      //   link: '/config/'
-      // },
-      // {
-      //   text: 'VuePress',
-      //   link: 'https://v1.vuepress.vuejs.org'
-      // }
+      {
+        text: 'Developers',
+        link: '/developers/'
+      },
     ],
     sidebar: {
       '/guide/': [
         {
-          title: 'Guide',
+          title: 'About KO',
           collapsable: true,
           children: [
             '',
@@ -129,6 +125,26 @@ module.exports = {
           ]
         },
       ],
+      '/developers/': [
+        {
+          title: 'Developer',
+          collapsable: true,
+          children: [
+            '',
+            {
+              title: 'Developer guide',
+              collapsable: true,
+              children: [
+                'core-concepts',
+                'getting-started',
+                'metadata',
+                'subgraph',
+                'smart-contracts',
+              ]
+            },
+          ]
+        },
+      ]
     },
     sidebarDepth: 2,
   },
