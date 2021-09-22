@@ -35,7 +35,7 @@ Welcome to KnownOrigin docs
 ## Technical stuff
 
 ::: tip
-Looking for developer?
+Looking for developer documentation?
 
 [Developer Docs](/developers)
 :::
