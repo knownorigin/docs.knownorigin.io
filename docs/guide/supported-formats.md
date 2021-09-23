@@ -14,10 +14,35 @@ We currently support the following file formats:
 
 Cover images are **mandatory** when using video or 3D models - this will enable the token to be better represented on other websites and wallets which do not support these media types.
 
-#### Image/artwork usage
+#### Image based art
 
 You must adhere to copyright, originality and KO terms and conditions when minting. Reputation is king in this space, so
  we ask those involved to respect other artists and collectors.
+
+#### Video based art
+
+Unfortunately not all browsers support every format and even within families of browsers there are variations in what
+formats, frame rates and maximum sizes they support. 
+
+We have recently introduced video transcoding of all videos on KO in an attempt to improve the overall viewing 
+experience when displaying artwork on the site for all browsers and devices.
+
+We also **DO NOT** process the video before associating to the tokens, we transcode them after creation meaning
+that the video upload is the exact video which is tokenised. 
+
+Currently, we transcode **all** videos to a minimum of `mp4/1080p` quality which from our tests produces the best
+set of results for user generated quality on the widest set of devices.
+
+The downside is that although KO will hopefully provide the best viewing experience, other sites, specifically aggregators
+like `OpenSea` and `Rarible` may not do the same thing and will try to render the original uploaded by an artists. 
+This means that they may not play on all devices when viewed on these platforms.
+
+We would recommend trying to upload video artwork in a format which has the widest support such as mp4 / h264 / 1080p. 
+[Read more](./video-encoding.md) about video transcoding.
+
+Further guidance on cross browser support for video formats can be found here:
+* [https://caniuse.com/mpeg4](https://caniuse.com/mpeg4)
+* [https://caniuse.com/webm](https://caniuse.com/webm)
 
 ## 3D artwork
 
