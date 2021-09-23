@@ -7,3 +7,9 @@ actionText: Docs, Guides and Help →
 actionLink: /guide/
 footer: Made by KnownOrigin with ❤️
 ---
+
+::: tip
+Looking for developer documentation?
+
+[Developer Docs](/developers)
+:::

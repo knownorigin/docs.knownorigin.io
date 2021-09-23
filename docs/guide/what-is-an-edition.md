@@ -64,7 +64,7 @@ In the future we may evolve this method as we are all learning the best approach
 
 ### What data do we store on IPFS?
 
-[IPFS](https://ipfs.io/) _(unfortunately)_ stands for InterPlanetary File System, although not a great name in my opinion.
+[IPFS](https://ipfs.io/) stands for InterPlanetary File System, although not a great name in my opinion.
 The InterPlanetary File System is a protocol and peer-to-peer network for storing and sharing data in a distributed file system.
 
 The IPFS network enabled files to be uploaded and stored by a network of willing participants, in a network of peer-to-peer nodes.

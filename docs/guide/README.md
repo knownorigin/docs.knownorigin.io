@@ -4,7 +4,7 @@ Welcome to KnownOrigin docs
 
 ## Useful links
 
-* [Marketplace](https://knownorigin.io/) _feedback always welcome_
+* [Marketplace](https://knownorigin.io/)
 * [Twitter](https://twitter.com/knownorigin_io)
 * [Discord](https://discord.gg/2whPWbq)
 * [Telegram](https://t.me/knownorigin_io)
@@ -32,12 +32,17 @@ Welcome to KnownOrigin docs
 * [Ethereum Basics](https://docs.ethhub.io/ethereum-basics/what-is-ethereum/)
 * [Staying safe in Crypto](https://support.mycrypto.com/staying-safe)
 
+## Technical stuff
+
+::: tip
+Looking for developer documentation?
+
+[Developer Docs](/developers)
+:::
+
+* [KO Insights](https://insights.knownorigin.io/)
+* [KO on Nonfungible.com](https://nonfungible.com/market/history/knownorigin)
+
 ## GAS prices
 * [GAS Now](https://www.gasnow.org/)
 * [ETH Gas Station](https://ethgasstation.info/)
-
-## Technical stuff
-* [KO Insights](https://insights.knownorigin.io/)
-* [KO on Nonfungible.com](https://nonfungible.com/market/history/knownorigin)
-* Public [Subgraph](https://thegraph.com/explorer/subgraph/knownorigin/known-origin) API
-* [GitHub](https://github.com/knownorigin)
