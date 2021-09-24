@@ -3,12 +3,12 @@
 #### The problem
 
 `OpenSea` and potentially other NFT aggregators may not pay out royalties to creators when minted on platforms like
-`KnownOrigin`, this is due to a technical limitation in the way they pay out fees, often restricting payments to a
-single address, this clearly does not work when we have 4000+ creators.
+`KnownOrigin`, this is often due to a technical limitation in the way they pay out fees, typically restricting payments
+to a single address, this clearly does not work when we have 4000+ creators.
 
-Other problems exist such as non-atomic post sale settlement, the custodial nature of handling funds and generally
-being a suboptimal solution, ideally royalties should be handled at the time of sale but these things take time and
-effort to solve properly.
+Other problems exist such as non-atomic post sale settlement, the custodial nature of handling funds, ideally royalties
+should be handled at the time of sale but these things take time and effort to solve properly, it's an ecosystem wide
+challenge.
 
 When items are bought and sold on `KnownOrigin` itself, we correctly adhere to our contracts rules and correctly payout
 royalties to any artist or collective.
@@ -22,8 +22,8 @@ things:
    We also support the **Rarible royalties** standard which should also mean royalties are payout to the creators.
    **The real solution is ERC-2981 in our opinion**
 
-2. **Open-source merkle based royalties distributor** - this allows `OpenSea` to send any royalties captured to a
-   single address. We can then we can generate a set of merkle proofs based on the `OpenSea` API, in essence running an
+2. **An open-source royalties' distributor** - this allows `OpenSea` to send any royalties captured to a single
+   address. We can then we can generate a set of merkle proofs based on the `OpenSea` API, in essence running an
    off-chain reconciliation process in a non-custodial, public and verifiable way. Although the KO team is running this
    process there is a clear path to decentralisation which is key to this solution.
 
@@ -45,13 +45,13 @@ All items listed from this point should capture royalties payments on OpenSea
 
 #### How it works
 
-Periodically `OpenSea` payout royalties, this is based on their own rules and is out of our control.
+Periodically `OpenSea` payout royalties, this is based on their own rules and is out of our control when this happens.
 
-When a payout happens, we see the event and then run the reconciliation script, publish the
+When a payout occurs, we see the event and then run the reconciliation script, publish the
 results [IPFS](https://ipfs.io/) and update the smart contract with a merkle tree that contains everyone's due
 balances.
 
-**This appears to happen ever 1-2 weeks**
+**This appears to happen every 1-2 weeks**
 
 Claimants can then check their profile and draw down any funds which have accrued from OpenSea.
 
