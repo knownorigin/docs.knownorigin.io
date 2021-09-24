@@ -12,6 +12,11 @@ Welcome to KnownOrigin docs
 * [Medium](https://medium.com/knownorigin)
 * [Reddit](https://www.reddit.com/r/knownorigin/)
 
+::: tip Find everything 
+
+[KnownOrigin on linktr.ee](https://linktr.ee/KnownOrigin.io)
+:::
+
 ## MetaVerse
 
 * CryptoVoxels Gallery - [visit](https://www.cryptovoxels.com/play?coords=NW@212W,2U,178S)
