@@ -117,7 +117,7 @@ You also have the option to schedule the start time of your sale on KO. This opt
 
 Please note:
 
-* Time is ALWAYS in [UTC](https://time.is/UTC) - please get in contact on discord if you need help on this
+* Time is selected in local time and is shown in [UTC](https://time.is/UTC) below - please get in contact on discord if you need help on this
 * This cannot be changed once set
 * The timer is on-chain and cannot be circumvented by bypassing the website 
 
