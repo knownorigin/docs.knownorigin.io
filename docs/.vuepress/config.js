@@ -62,7 +62,8 @@ module.exports = {
                 'joining-ko-as-an-artist',
                 'creating-a-profile',
                 'user-socials-verification',
-                'opensea-royalties'
+                'opensea-royalties',
+                'what-to-do-if-you-have-been-hacked'
               ]
             },
             {
