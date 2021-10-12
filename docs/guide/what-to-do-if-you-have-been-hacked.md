@@ -1,16 +1,19 @@
-# What to do if you have been hacked
+# What we can do if you have been hacked
 
-As a first step if you have any suspicion that your device's security may have been compromised move the contents of your wallet to a 
-new safe wallet as soon as possible and cease using it. Once this has been done please contact one of the team, and we will be able to offer advice
-on a case by case basis. Unfortunately, due to the nature of blockchain there are considerable limitations on the help that we 
+Here's the process for dealing with a compromised 
+
+1. If you think your security has been compromised please reach out to the team and make them aware of your situation
+2. We will confirm it's you by verifying your socials
+3. Create a new profile on KO 
+4. Provide this new profile to the KO team and let us know your old and new profile and the reason for the switch
+5. The KO team will disable minting of the old profile and enable the new profile
+6. The KO team will then re-name your old profile to indicate to collectors that this account is no longer being controlled by you
+
+Unfortunately, due to the nature of blockchain there are considerable limitations on the help that we 
 are able to provide to those who have been hacked. Here is a few of the things we are and are not able to offer:
 
 * WE CANNOT transfer any of the tokens minted from the hacked account to another one
 * WE CANNOT divert any funds that have been sent to that account
-* WE CAN help you create a new artist account
-* WE CAN change the name of the compromised profile to indicate that this is a hacked/inactive account
-* WE CAN stop the hacked account from being able to mint any new tokens
 
-Of course, ideally this could all be avoided if your account isn't compromised in the first place which can be impleçmented fairly easily.
+Of course, ideally this could all be avoided if your account isn't compromised in the first place which can be implemented fairly easily.
 Here is a helpful [article](https://www.finimize.com/wp/guides/hold-cryptocurrency-safely/) with a few tips on how to keep your wallet secure.
-
