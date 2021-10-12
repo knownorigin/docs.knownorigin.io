@@ -63,7 +63,8 @@ module.exports = {
                 'creating-a-profile',
                 'user-socials-verification',
                 'opensea-royalties',
-                'what-to-do-if-you-have-been-hacked'
+                'what-to-do-if-you-have-been-hacked',
+                'cant-see-artworks-on-other-marketplaces'
               ]
             },
             {
