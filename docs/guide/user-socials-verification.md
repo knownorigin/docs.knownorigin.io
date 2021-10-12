@@ -1,4 +1,4 @@
-# How to verify your profile?
+# How to verify your profile
 
 ## What do we mean by verify?
 
