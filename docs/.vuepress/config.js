@@ -90,7 +90,8 @@ module.exports = {
               children: [
                 'creating-editions',
                 'supported-formats',
-                'video-encoding'
+                'video-encoding',
+                'composing-other-tokens'
               ]
             },
             {
