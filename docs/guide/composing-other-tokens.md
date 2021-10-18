@@ -20,7 +20,7 @@ Composables open up a whole knew realm of possibilities for NFTs, an artist may 
 * Reward collectors with a token when they purchase a piece
 * Store a derivative of an artwork, within the artwork itself
 
-Composables allow you to experiment and play with new forms of incentives, token distribution and value transfer.
+Composables allow you to experiment and play with new forms of incentives, token distribution and value transfer!
 
 ### How to use this feature?
 
@@ -46,7 +46,9 @@ You will be choosing how many tokens you wish to store in each edition, i.e. for
 for a 5 edition piece would make a total of 25 DAI.
 
 You will not be able to select a token you do not have in your wallet, nor select more tokens than you have available, this page will automatically query your wallet and make sure you have enough of the token to continue with the process.
-At the moment you must select whole tokens, i.e. 5 DAI rather than 5.5 DAI or 1.2 DAI. There is an option to select the maximum number of tokens possible with the `(Max)` button
+At the moment you must select whole tokens, i.e. 5 DAI rather than 5.5 DAI or 1.2 DAI.
+
+There is an option to select the maximum number of tokens possible with the `(Max)` button
 
 <img width="70%" src="https://storage.googleapis.com/public-blog-asset/doc-site/fourth-slide-composables.png">
 
@@ -77,5 +79,5 @@ Once both confirmations have been received and both transactions have gone throu
 The composable has now been created and after clicking 'Finish' you will see the final page. From here you can view your share your creation via the 'Share' button
 or see the artwork with the 'View Artwork' button.
 
-<img width="70%" src="https://storage.cloud.google.com/public-blog-asset/doc-site/eigth-slide-composables.png">
+<img width="70%" src="https://storage.googleapis.com/public-blog-asset/doc-site/eigth-slide-composables.png">
 
