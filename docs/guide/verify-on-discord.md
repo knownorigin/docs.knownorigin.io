@@ -20,7 +20,7 @@ canonicalUrl: https://docs.knownorigin.io/guide/verify-on-discord
 
 **Note: This is not mandatory; if you don't want to verify you will see all the public channels ;)**
 
-To verify your wallet and get the correct Discord roles you will need to sign a transaction proving you have access to your Ethereum wallet.
+To verify your wallet and get the correct Discord roles you will need to sign a transaction proving you have access to your associated Ethereum wallet.
 We realise this is not super simple but it works and will help make the Discord a better place and unlock relevant channels!
 
 ## The journey to enlightenment...
@@ -37,14 +37,14 @@ We realise this is not super simple but it works and will help make the Discord 
 <img :src="$withBase('/discord-role-bot/ko-role-bot-2.png')" height="250">
 
 4. Click the `Message me` button and after a bit of thinking time the bot should send you a direct message. Check your DMs!
+   
+**The Discord API can be a little slow so please be patient with it, ensure you are allowed to receive DMs in your discord settings if you do not get a message**
 
 <img :src="$withBase('/discord-role-bot/ko-role-bot-3.png')" height="250">
 
-**Ensure you are allowed to receive DMs in your discord settings if you do not get a message**
-
 5. Click the `Click here` link in the message and this should take you to the Known Origin Verification Portal. Here you will see an option to connect your wallet
 
-**Please check that the wallet you are connecting with is the same wallet you have linked to your KO profile**
+**Please double-check that the wallet you are connecting with is the same wallet you have linked to your KO profile**
 
 <img :src="$withBase('/discord-role-bot/ko-role-bot-4.png')" height="250">
 
@@ -56,7 +56,7 @@ We realise this is not super simple but it works and will help make the Discord 
 
 <img :src="$withBase('/discord-role-bot/ko-role-bot-6.png')" height="250">
 
-8. You will also receive another DM to confirm the roles
+8. You will also receive another DM to confirm the roles. You're finished and you now have some shiny new Discord roles!
 
 <img :src="$withBase('/discord-role-bot/ko-role-bot-7.png')" height="250">
 
@@ -69,7 +69,3 @@ We realise this is not super simple but it works and will help make the Discord 
 * KO Collector - verified and owns KODA tokens
 
 *If you don't want any of these roles once you have verified speak to us on the `#support-general` channel in Discord*
-
-
-
-
