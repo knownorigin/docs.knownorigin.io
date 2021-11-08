@@ -30,16 +30,15 @@ We realise this is not super simple but it works and will help make the Discord 
 1. Go to the channel `#🤖-botty-mcbotface` in the community group
 2. Trigger the verify command by typing `/verify` and hitting enter
 
-![verify-command](assets/discord/ko-role-bot-1.png)
+<img :src="$withBase('/discord-role-bot/ko-role-bot-1.png')" height="250">
 
 3. You should see a message from `ko-role-bot` with a `Message me` button (The bots messages are private to you, only you can see them)
 
-![initial-message](assets/discord/ko-role-bot-2.png)
-
+<img :src="$withBase('/discord-role-bot/ko-role-bot-2.png')" height="250">
 
 4. Click the `Message me` button and after a bit of thinking time the bot should send you a direct message. Check your DMs!
 
-![direct-message](assets/discord/ko-role-bot-3.png)
+<img :src="$withBase('/discord-role-bot/ko-role-bot-3.png')" height="250">
 
 **Ensure you are allowed to receive DMs in your discord settings if you do not get a message**
 
@@ -47,19 +46,19 @@ We realise this is not super simple but it works and will help make the Discord 
 
 **Please check that the wallet you are connecting with is the same wallet you have linked to your KO profile**
 
-![verification-portal](assets/discord/ko-role-bot-4.png)
+<img :src="$withBase('/discord-role-bot/ko-role-bot-4.png')" height="250">
 
 6. Once you have connected your wallet you will see another button `Verify wallet`. This will generate a signature to sign, verifying that you own the wallet.
 
-![sign-transaction](assets/discord/ko-role-bot-5.png)
+<img :src="$withBase('/discord-role-bot/ko-role-bot-5.png')" height="250">
 
 7. When you have signed this transaction the bot will do it's magic and generate you the correct roles! You should see a page like this showing which roles you've been assigned.
 
-![roles](assets/discord/ko-role-bot-6.png)
+<img :src="$withBase('/discord-role-bot/ko-role-bot-6.png')" height="250">
 
 8. You will also receive another DM to confirm the roles
 
-![roles-dm](assets/discord/ko-role-bot-.png)
+<img :src="$withBase('/discord-role-bot/ko-role-bot-7.png')" height="250">
 
 
 ## Roles
