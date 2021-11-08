@@ -3,7 +3,7 @@ title: Verify on Discord
 description: This page explains all about how to verify and gain Discord roles
 
 # Publish date of this page/post
-date: 2021-04-13
+date: 2021-11-08
 
 # The list of tags for the post
 tags:
@@ -20,32 +20,45 @@ canonicalUrl: https://docs.knownorigin.io/guide/verify-on-discord
 
 **Note: This is not mandatory; if you don't want to verify you will see all the public channels ;)**
 
-We realise this is not super simple but it works and will help make the Discord a better place and unlock relevant channels.
+To verify your wallet and get the correct Discord roles you will need to sign a transaction proving you have access to your associated Ethereum wallet.
+We realise this is not super simple but it works and will help make the Discord a better place and unlock relevant channels!
 
 ## The journey to enlightenment...
 
 **By verifying yourself we can give you more _roles_ and unlock various group and channels**
 
 1. Go to the channel `#🤖-botty-mcbotface` in the community group
-2. Type `!verify`
-3. You should get a DM from NFT42 bot
+2. Trigger the verify command by typing `/verify` and hitting enter
 
-![](https://i.imgur.com/Aq7iFVh.png)
+<img :src="$withBase('/discord-role-bot/ko-role-bot-1.png')" height="250">
 
-![](https://i.imgur.com/vJHH26z.png)
+3. You should see a message from `ko-role-bot` with a `Message me` button (The bots messages are private to you, only you can see them)
 
-4. Follow the link to verfiy to the page that allows you to "connect your wallet". 
+<img :src="$withBase('/discord-role-bot/ko-role-bot-2.png')" height="250">
 
-**Ensure you are logged into the correct Discord account you use on KO Discord**
+4. Click the `Message me` button and after a bit of thinking time the bot should send you a direct message. Check your DMs!
+   
+**The Discord API can be a little slow so please be patient with it, ensure you are allowed to receive DMs in your discord settings if you do not get a message**
 
-![](https://i.imgur.com/3Huax21.png)
+<img :src="$withBase('/discord-role-bot/ko-role-bot-3.png')" height="250">
 
-5. Connect your wallet to identify your **public** key. We never ask for your private key...ever.
-6. Sign a offchain message (this costs no GAS) and lets the bot link your discord user to your KO account (identified by your public key on Ethereum)
-8. When it says _"Authentication successful you may return to discord"_ head back to discord's `#🤖-botty-mcbotface` channel. 
-9. Type `!ko claim` and you will get roles you are due. You see a little green tick when this work.
+5. Click the `Click here` link in the message and this should take you to the Known Origin Verification Portal. Here you will see an option to connect your wallet
 
-![](https://i.imgur.com/cAGTjyA.png)
+**Please double-check that the wallet you are connecting with is the same wallet you have linked to your KO profile**
+
+<img :src="$withBase('/discord-role-bot/ko-role-bot-4.png')" height="250">
+
+6. Once you have connected your wallet you will see another button `Verify wallet`. This will generate a signature to sign, verifying that you own the wallet.
+
+<img :src="$withBase('/discord-role-bot/ko-role-bot-5.png')" height="250">
+
+7. When you have signed this transaction the bot will do it's magic and generate you the correct roles! You should see a page like this showing which roles you've been assigned.
+
+<img :src="$withBase('/discord-role-bot/ko-role-bot-6.png')" height="250">
+
+8. You will also receive another DM to confirm the roles. You're finished and you now have some shiny new Discord roles!
+
+<img :src="$withBase('/discord-role-bot/ko-role-bot-7.png')" height="250">
 
 
 ## Roles
@@ -53,12 +66,6 @@ We realise this is not super simple but it works and will help make the Discord 
 * KO User - verified user on KO Discord
 * KO Profile - verified and has a KO profile
 * KO Artist - verified and enabled KO Artist (checks the blockchain!) 
-* KO New Artist - verfied and enabled KO Artist in the last 3 months
 * KO Collector - verified and owns KODA tokens
-* KO Patron - verified patron of KO
 
 *If you don't want any of these roles once you have verified speak to us on the `#support-general` channel in Discord*
-
-
-
-
