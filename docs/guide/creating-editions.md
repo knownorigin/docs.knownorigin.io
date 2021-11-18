@@ -11,7 +11,7 @@ First visit your profile, once you are enabled on KO you will see a button like 
 
 #### New minting portal
 
-For V3 we have created a new minting portal to mint your work, build [collectives](./creating-editions/#collectives) and create composable NFTs. Here we want to mint a work so you will need to select 'Create NFTs'.
+For V3 we have created a new minting portal to mint your work, build [collaborations](./creating-editions/#collaborations) and create composable NFTs. Here we want to mint a work so you will need to select 'Create NFTs'.
 
 <img width="70%" src="https://storage.googleapis.com/public-blog-asset/doc-site/initial-slide-minter.png">
 
@@ -84,21 +84,21 @@ There is currently a minimum price of _0.01 ETH_.
 You must adhere to copyright, originality and KO's terms and conditions when minting. Reputation is king in this space, so
  we ask those involved to respect other artists and collectors in these regards.
 
-## Collectives
+## Collaborations
 
-You can currently set up to 5 `Ethereum` addresses as a collective collaborators on future work. These allow you to allocate a percentage of funds between the collaborators on every sale, this works on both primary and secondary sales when they happen on the KO platform. You can set up new collectives through the minting portal by selecting the 'Build collectives' option.
+You can currently set up to 5 `Ethereum` addresses as a collaborators on an edition. These allow you to split a percentage of funds between the collaborators on every sale, this works on both primary and secondary sales when they happen on the KO platform. You can set up new collaborations through the minting portal by selecting the 'Create collaboration' option.
 
-<img width="70%" src="https://storage.googleapis.com/public-blog-asset/doc-site/initial-slide-minter.png">
+<img width="70%" src="https://storage.googleapis.com/public-blog-asset/doc-site/colllab-1.png">
 
-After clicking through you will be able to see any collectives that either you have created or that others have created, and you are a part of. In the bottom right side of the page you will have the option to 'create collective'.
+After clicking through you will be able to see any collaborations that either you have created or that others have created, and you are a part of. In the bottom right side of the page you will have the option to 'create collaboration'.
 
-<img width="70%" src="https://storage.googleapis.com/public-blog-asset/doc-site/collectives-initial-page.png">
+<img width="70%" src="https://storage.googleapis.com/public-blog-asset/doc-site/collab-2.png">
 
-Here you will be able to add your collaborators to your collectives via their wallet addresses. To add or remove collaborators you can use the '+' and '-' buttons. You can also set the royalty allocations for each individual which can be from 1% to 99% as long as they all add up to a total of 100%. You can then click deploy collectives which will launch a transaction which once complete will create the collective. This collective can now be used indefinitely but will be tied to the conditions of how it was initially constructed.
+Here you will be able to add your collaborators via their wallet addresses. To add or remove collaborators you can use the '+' and '-' buttons. You can also set the royalty allocations for each individual which can be from 1% to 99% as long as they all add up to a total of 100%. You can then click deploy collectives which will launch a transaction which once complete will create the collective. This collective can now be used indefinitely but will be tied to the conditions of how it was initially constructed.
 
-<img width="70%" src="https://storage.googleapis.com/public-blog-asset/doc-site/collectives-second-page.png">
+<img width="70%" src="https://storage.googleapis.com/public-blog-asset/doc-site/collab-3.png">
 
-In the future we hope to introduce greater functionality to these collectives such as governance and the ability to sell future royalties from the collectives.
+In the future we hope to introduce greater functionality to these collaborations such as governance and the ability to sell future royalties from the collectives.
 
 _**To note:** we only support whole numbers for percentage splits, so if a split of 50/50 happens, taking into account 
 [KO fees](./fee-strucutre.md) this means that the collaborator may receive 1% less than the other part due to rounding up or down._
