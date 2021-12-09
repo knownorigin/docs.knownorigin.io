@@ -6,7 +6,7 @@ We currently support the following file formats:
 
 * Image formats - `PNG`, `JPG`, `GIF`, `SVG` & `WebP` - (along with animated variants)
     * 360 Image formats - `PNG`, `JPG` - image has to contain the `Exif XMP` tag `ProjectionType=equirectangular` (Without this they will not work on KO as 360 images)
-* Video formats - `WebM` & `Mp4`
+* Video formats - `WebM` & `Mp4` (minimum of quality of 720p `1280 x 720`)
 * 3D formats - `GLB`
 * Max file size
     - `75mb` for main asset
