@@ -4,14 +4,13 @@
 ### What is it?
 
 Composables are a way of bundling crypto tokens together, after minting an NFT (ERC-721) you can embed other tokens within it.
-This is currently limited to ERC20 tokens but in the future you will be able to embed other ERC-721 NFTs within an NFT!
 
 ### How it works?
 
 The KnownOrigin V3 contracts introduced the ability to compose tokens together, following the [EIP-998](https://eips.ethereum.org/EIPS/eip-998) standard.
 
-After a composable has been created, the tokens embedded within are held in stasis by the KO contracts, ready to be released. This information will then be displayed
-in the KO marketplace, listing the underlying assets at point of purchase. Once the NFT is purchased the new owner can then choose to redeem the tokens or leave them tied to the NFT.
+After a composable has been created, the tokens and/or NFT embedded within are held in stasis by the KO contracts, ready to be released. This information will then be displayed
+in the KO marketplace, listing the underlying assets at point of purchase. Once the NFT is purchased the new owner can then choose to redeem the NFT or tokens or leave them tied to the NFT.
 
 ### Why would you want to compose other tokens?
 
@@ -24,20 +23,21 @@ Composables allow you to experiment and play with new forms of incentives, token
 
 ### How to use this feature?
 
-On the minting portal you will need to select 'Composable NFTs'.
+On the minting portal you will need to select 'Enhance'.
 
-<img width="70%" src="https://storage.googleapis.com/public-blog-asset/doc-site/first-slide-composables.png">
+<img width="70%" src="https://storage.googleapis.com/public-blog-asset/doc-site/home-slide-composable-nft.png">
 
-You can proceed with the Create composable button.
+You can proceed with the 'Embed Token' button.
 
-<img width="70%" src="https://storage.googleapis.com/public-blog-asset/doc-site/second-slide-composables.png">
+<img width="70%" src="https://storage.googleapis.com/public-blog-asset/doc-site/first-slide-composable-nft.png">
+
 
 #### Selecting an artwork
 
 This section allows you to select an existing NFT you have minted. Clicking the box will present you with a dropdown list of your NFTs, or
 you can filter by edition name. Once you have selected an artwork you can continue, it is important to note that you can only select artworks that haven't had any sales.
 
-<img width="70%" src="https://storage.googleapis.com/public-blog-asset/doc-site/third-slide-composables.png">
+<img width="70%" src="https://storage.googleapis.com/public-blog-asset/doc-site/second-slide-composable-token.png">
 
 #### Selecting a token
 

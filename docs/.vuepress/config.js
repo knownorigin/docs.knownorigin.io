@@ -91,7 +91,8 @@ module.exports = {
                 'creating-editions',
                 'supported-formats',
                 'video-encoding',
-                'composing-other-tokens'
+                'composing-other-tokens',
+                'composing-other-NFTs'
               ]
             },
             {
