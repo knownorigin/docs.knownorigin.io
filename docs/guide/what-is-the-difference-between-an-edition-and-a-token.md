@@ -86,25 +86,25 @@ A sample `JSON` blob we store on IPFS can be seen below:
 
 ```json
 {
-  "name": "Test 360",
-  "description": "Test 360",
+  "name": "Test",
+  "description": "Test",
   "attributes": {
     "artist": "KnownOrigin",
     "scarcity": "rare",
-    "format": "Craft",
-    "theme": "Cubism",
     "tags": [
-      "2020",
-      "360 image sphere"
+      "abstract",
+      "acrylics",
+      "another-tag"
     ],
-    "asset_type": "image/jpeg",
-    "asset_size_in_bytes": 8290426,
-    "production_year": "2021"
+    "asset_type": "video/mp4",
+    "asset_size_in_bytes": 38247618,
+    "cover_image_type": "image/png",
+    "cover_image_size_in_bytes": 7588405
   },
-  "artist": "0x3f8c962eb167ad2f80c72b5f933511ccdf0719d4",
-  "external_uri": "https://knownorigin.io/0x3f8c962eb167ad2f80c72b5f933511ccdf0719d4",
-  "image": "ipfs://QmQLWzxLgmhCUMJ3oa3qE2btvbVPTPUZNEKKwPRvPsocsG/asset.jpg",
-  "image_sphere": true
+  "external_uri": "https://knownorigin.io/artists/0x3f8c962eb167ad2f80c72b5f933511ccdf0719d4",
+  "image": "https://ipfs.infura.io/ipfs/QmbayRoC4vECrNiJ3yAFK3YQ9MzAfhKgpAspNLRSBc8ZeV/asset.png",
+  "animation_url": "https://ipfs.infura.io/ipfs/QmSoBGYCdZi1zMkZJytiYbyCG3dPKaG4fJmyQzAKihKfW3/asset.mp4",
+  "artist": "0x3f8c962eb167ad2f80c72b5f933511ccdf0719d4"
 }
 ```
 
@@ -117,3 +117,43 @@ upkeep by simply deciding to also store the files.
 
 We have been looking at alternatives such as Arweave and FileCoin, along with others.
 In the future we may consider leveraging additional storage options if required to do so.  
+
+### How to download or view IPFS token data
+
+KO stores data on multiple IPFS provides but all IPFS gateways should be able to retrieve token metadata and images using KO IPFS hashes.
+
+#### Via a creation event and using Etherscan
+
+Navigate to a KO artwork and find the first `Creation` event in the history. Clicking on the `view tx` link opens `etherscan`
+
+Navigate to the `Events` tab of the `Logs` and find the event called `EditionMintedAndListed` or `EditionCreated`
+
+<img :src="$withBase('/ipfs/creation-event.png')">
+
+Find the `editionId` for the artwork minted.
+
+Navigate to the contract:
+
+- **KODA V2** `0xfbeef911dc5821886e1dda71586d90ed28174b7d` [link](https://etherscan.io/address/0xfbeef911dc5821886e1dda71586d90ed28174b7d)
+- **KODA V3** `0xABB3738f04Dc2Ec20f4AE4462c3d069d02AE045B` [link](https://etherscan.io/address/0xABB3738f04Dc2Ec20f4AE4462c3d069d02AE045B)
+
+Click `Contract` (all KO contracts are verified on etherscan) -> `Read Contract` -> find the `tokenUri()`
+OR `editionUri()` methods -> paste the `TokenId` or `EditionID` to find the full token IPFS data e.g.
+
+<img :src="$withBase('/ipfs/token-uri-lookup.png')">
+
+Once you have the IPFS hash you can then use most if not all gateways to retrieve them.
+
+- Infura public gateway `https://ipfs.infura.io/ipfs/${REPLACE-WITH-IPFS-HASH}`
+- Pinata public gateway `https://gateway.pinata.cloud/ipfs/${REPLACE-WITH-IPFS-HASH}`
+
+#### From the KO interface
+
+Navigate to a piece of art, click `Info`, you will see two link to `View Metadata` or `View Media on IPFS`
+
+This will open a new tab directly to the tokens IPFS data.
+
+<img :src="$withBase('/ipfs/view-ipfs-on-ko.png')">
+
+We have been looking at alternatives such as Arweave and FileCoin, along with others.
+In the future may consider leveraging additional storage options if required to do so.  
