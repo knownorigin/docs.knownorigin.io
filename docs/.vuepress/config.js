@@ -115,6 +115,7 @@ module.exports = {
                 'trending-engine',
                 'donating-to-charity',
                 'drops',
+                'ambassador-programme'
               ]
             },
             {
