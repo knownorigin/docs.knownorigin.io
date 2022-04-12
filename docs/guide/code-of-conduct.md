@@ -38,7 +38,7 @@ As Google says "Don't be evil", if you see something that you think isn’t righ
 * We will try to resolve all problems as quick as possible and in a timely fashion
 * We will try to help out all community members when problems arise
 * Be transparent with what we are working on
-* Maintain open communications on Discord, Telegram and our community calls 
+* Maintain open communications on Discord and our community calls 
 * Ensure all smart contract code is open sourced
 * We will never ask anyone for a private key, password or any type of cryptocurrency
 

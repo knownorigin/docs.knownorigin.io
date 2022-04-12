@@ -7,7 +7,6 @@ Welcome to KnownOrigin docs
 * [Marketplace](https://knownorigin.io/)
 * [Twitter](https://twitter.com/knownorigin_io)
 * [Discord](https://discord.gg/2whPWbq)
-* [Telegram](https://t.me/knownorigin_io)
 * [Instagram](https://www.instagram.com/knownorigin.io/)
 * [Medium](https://medium.com/knownorigin)
 * [Reddit](https://www.reddit.com/r/knownorigin/)
