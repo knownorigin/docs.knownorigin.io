@@ -25,6 +25,7 @@ Welcome to KnownOrigin docs
 ## Ethereum stuff
 
 * [How Ethereum works?](https://ethereum.org/en/learn/)
+* [ETH 2 and The Merge](what-is-eth2.0)
 * [What is ETH?](https://ethereum.org/en/eth/)
 * [What is GAS?](https://ethereum.org/en/developers/docs/gas/)
 * [Ethereum Basics](https://docs.ethhub.io/ethereum-basics/what-is-ethereum/)
