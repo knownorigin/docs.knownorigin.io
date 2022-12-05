@@ -2,13 +2,15 @@
 
 ## Inquiries
 
-For interview requests, logos, podcasts or conference appearances, please contact [hello@knownorigin.io](mailto:hello@knownorigin.io)
+For interview requests, logos, podcasts or conference appearances, please
+contact [hello@knownorigin.io](mailto:hello@knownorigin.io)
 
 ## Images
 
 ### PNG
 
 #### Icons
+
 <br> 
 <br>
 <table><tr><td>
@@ -32,6 +34,7 @@ For interview requests, logos, podcasts or conference appearances, please contac
 ### JPG
 
 #### logo lock-up
+
 <table><tr><td>
 <img :src="$withBase('/press-kit/KO-default400px.jpg')">
 </td></tr></table>
@@ -68,4 +71,20 @@ For interview requests, logos, podcasts or conference appearances, please contac
 
 <table><tr><td>
 <img :src="$withBase('/press-kit/White-blue-ko-logo.svg')">
+</td></tr></table>
+
+<table><tr><td>
+<img :src="$withBase('/press-kit/KO_logo_Black.png')">
+</td></tr></table>
+
+<table><tr><td>
+<img :src="$withBase('/press-kit/KO_logo_Black.svg')">
+</td></tr></table>
+
+<table><tr><td>
+<img :src="$withBase('/press-kit/KO_logo_white.png')">
+</td></tr></table>
+
+<table><tr><td>
+<img :src="$withBase('/press-kit/KO_logo_white.svg')">
 </td></tr></table>
