@@ -63,7 +63,9 @@ contact [hello@knownorigin.io](mailto:hello@knownorigin.io)
 <img :src="$withBase('/press-kit/Black-blue-ko-Icn.svg')">
 </td></tr></table>
 
-#### logo type
+### Logo type
+
+#### Blue logos
 
 <table><tr><td>
 <img :src="$withBase('/press-kit/Black-blue-ko-logo.svg')">
@@ -73,6 +75,8 @@ contact [hello@knownorigin.io](mailto:hello@knownorigin.io)
 <img :src="$withBase('/press-kit/White-blue-ko-logo.svg')">
 </td></tr></table>
 
+#### Black logos
+
 <table><tr><td>
 <img :src="$withBase('/press-kit/KO_logo_Black.png')">
 </td></tr></table>
@@ -80,6 +84,8 @@ contact [hello@knownorigin.io](mailto:hello@knownorigin.io)
 <table><tr><td>
 <img :src="$withBase('/press-kit/KO_logo_Black.svg')">
 </td></tr></table>
+
+#### White logos
 
 <table><tr><td>
 <img :src="$withBase('/press-kit/KO_logo_white.png')">
