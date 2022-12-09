@@ -6,7 +6,7 @@ Welcome to KnownOrigin Developer Docs
 
 🚧 These docs are a work in progress and things may change 🚧
 
-🏗️ Please reach out to us on [Discord](https://discord.gg/2whPWbq) channel if you need more information 🏗️
+🏗️ Please reach out to us on [Discord](https://discord.gg/knownorigin) channel if you need more information 🏗️
 
 :::
 
@@ -21,6 +21,7 @@ Welcome to KnownOrigin Developer Docs
 5. [Smart Contracts](/developers/smart-contracts)
 
 ### Useful links
+
 * [KnownOrigin GitHub](https://github.com/knownorigin)
 * [Public Subgraph API](https://thegraph.com/explorer/subgraph/knownorigin/known-origin)
 

@@ -3,7 +3,8 @@
 **You can now **buy art** and **top-up** your **ETH** balance directly from with your credit or debit card.**
 
 We have partnered with a new payment solution [Wert.io](https://wert.io/) which facilitates all card to cryptocurrency
-transactions but with the added bonus to buy your favourite NFTs and CryptoArt directly in a single card purchase, with the
+transactions but with the added bonus to buy your favourite NFTs and CryptoArt directly in a single card purchase, with
+the
 tokens landing directly in your wallet.
 
 ## Buy with card
@@ -77,7 +78,7 @@ common solution to your problem.
 - [Wert FAQ](https://support.wert.io/en/articles/5061840-faq)
 - [Supported Countries](https://support.wert.io/en/articles/5194509-supported-countries)
 - [Supported US States](https://support.wert.io/en/articles/5194514-supported-us-states)
-- [KO Discord Support](https://discord.gg/6SwA2n4)
+- [KO Discord Support](https://discord.gg/knownorigin)
 
 ```
 Wert.io website is operated by SHA2 Solutions OU (Reg. code 14952299).

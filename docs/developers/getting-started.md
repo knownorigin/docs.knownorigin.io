@@ -31,7 +31,7 @@ of a single artwork.
 
 ## Useful links
 
-* [Discord](https://discord.gg/2whPWbq) - jump for any helping on building on KO
+* [Discord](https://discord.gg/knownorigin) - jump for any helping on building on KO
 * [Mainnet Hosted Subgraph](https://thegraph.com/legacy-explorer/subgraph/knownorigin/known-origin)
 * [Rinkeby Hosted Subgraph](https://thegraph.com/legacy-explorer/subgraph/knownorigin/knownoriginrinkeby)
 * [SubGraph code](https://github.com/knownorigin/known-origin-subgraph)

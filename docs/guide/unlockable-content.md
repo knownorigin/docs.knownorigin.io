@@ -1,9 +1,11 @@
 # Unlockable Content
 
-This is a new feature on KnownOrigin that adds the ability for creators to set unlockable content, this content can only be 
+This is a new feature on KnownOrigin that adds the ability for creators to set unlockable content, this content can only
+be
 accessed by token holders of the artwork.
 
-Unlockable content has become a common feature request from our community, so we are pleased to launch the first version of it.
+Unlockable content has become a common feature request from our community, so we are pleased to launch the first version
+of it.
 
 ### How it works?
 
@@ -13,11 +15,12 @@ Unlockable content has become a common feature request from our community, so we
 3. A collector purchases an edition with unlockable content defined
 4. Once the transaction has been confirmed they can now unlock any content set by the creator
 
-A note on the design rational and trade-offs: 
+A note on the design rational and trade-offs:
 
-We decided to go with a simple, flexible solution for day one which trades decentralisation with convenience. 
-In that we mean that KnownOrigin is the arbiter of who can access the content and how its stored. It also means that 
-unlockable content of your tokens can only be set and redeemed on KnownOrigin at the moment. Malicious content will be removed 
+We decided to go with a simple, flexible solution for day one which trades decentralisation with convenience.
+In that we mean that KnownOrigin is the arbiter of who can access the content and how its stored. It also means that
+unlockable content of your tokens can only be set and redeemed on KnownOrigin at the moment. Malicious content will be
+removed
 if reported to the KnownOrigin team.
 
 ### Some potential use cases
@@ -34,9 +37,10 @@ A few potential use cases which the team put forward:
 
 **A creator can update unlockable content.** This allows creators to update any broken links which they have previously
 specified, also allowing them to experiment with changing incentives for collectors on the primary and secondary market.
-We record all changes made so can audit and help in any problems which may arise. 
+We record all changes made so can audit and help in any problems which may arise.
 
-**Unlockable content is the same for all tokens in an edition.** For example, in an edition of 10, all 10 tokens will receive
+**Unlockable content is the same for all tokens in an edition.** For example, in an edition of 10, all 10 tokens will
+receive
 the same unlockable content.
 
 **Unlockable content can be retrieved on the primary and secondary markets**. The only stipulation is the content can
@@ -49,10 +53,12 @@ creators to set a link and a message, any externally linked content is not maint
 **There is no limit on how many times the content can be viewed**. In this first version we don't restrict the number of
 times an owner can view it. We do record each attempt internally for an audit trail though.
 
-**Content must adhere to the community code of conduct**. Further details can be found on [here](/guide/code-of-conduct/). 
+**Content must adhere to the community code of conduct**. Further details can be found
+on [here](/guide/code-of-conduct/).
 
-We are happy to iterate and work with creators to refine the current solution so please jump on [Discord](https://discord.gg/2whPWbq)
-and let us know how we can make it better. 
+We are happy to iterate and work with creators to refine the current solution so please jump
+on [Discord](https://discord.gg/knownorigin)
+and let us know how we can make it better.
 
 ### Creating unlockable content
 

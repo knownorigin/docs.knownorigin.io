@@ -6,12 +6,12 @@ Welcome to KnownOrigin docs
 
 * [Marketplace](https://knownorigin.io/)
 * [Twitter](https://twitter.com/knownorigin_io)
-* [Discord](https://discord.gg/2whPWbq)
+* [Discord](https://discord.gg/knownorigin)
 * [Instagram](https://www.instagram.com/knownorigin.io/)
 * [Medium](https://medium.com/knownorigin)
 * [Reddit](https://www.reddit.com/r/knownorigin/)
 
-::: tip Find everything 
+::: tip Find everything
 
 [KnownOrigin on linktr.ee](https://linktr.ee/KnownOrigin.io)
 :::
@@ -35,9 +35,11 @@ Welcome to KnownOrigin docs
 
 * [What is CryptoArt by Artnome](https://www.artnome.com/news/2018/1/14/what-is-cryptoart?s=03)
 * [OpenSea NFT Bible](https://opensea.io/blog/guides/non-fungible-tokens/)
-* [Artist checklist for success](https://www.trevorjonesart.com/blog/artist-checklist-for-success) by [Trevor Jones](https://knownorigin.io/trevor-jones)
+* [Artist checklist for success](https://www.trevorjonesart.com/blog/artist-checklist-for-success)
+  by [Trevor Jones](https://knownorigin.io/trevor-jones)
 
 ## GAS prices
+
 * [Blocknative GAS Estimator](https://www.blocknative.com/gas-estimator)
 * [ETH Gas Station](https://ethgasstation.info/)
 

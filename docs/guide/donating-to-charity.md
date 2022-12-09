@@ -4,7 +4,7 @@ A new feature of KnownOrigin is to empower users to directly support charities w
 support donations in Ethereum. KnownOrigin does not take or handle any of the funds, we only provide the tools.
 
 We plan on rotating these charities every 3-6 months, guided by the community. If you want to add/change or remove
-any, please join [Discord](https://discord.gg/2whPWbq) and let us know.
+any, please join [Discord](https://discord.gg/knownorigin) and let us know.
 
 ## Supported Charities
 
@@ -49,11 +49,11 @@ GiveDirectly is the leading global NGO specialized in delivering digital cash tr
 * Login to your profile
 * Once logged in you will see `Donate to charity` button below your profile avatar, click this
 * Select the cause you want to contribute to.
-  
+
   <img :src="$withBase('/donation-flow/select-charity.png')">  
 
 * Enter the `amount` in Ethereum and click `Donate` to send the money to your chosen good cause
-  
+
   <img :src="$withBase('/donation-flow/donation-amount.png')">
 
 * Once complete enter the Etherscan Transaction URL or Hash of your donation
