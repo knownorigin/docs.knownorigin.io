@@ -145,7 +145,7 @@ module.exports = {
                 'getting-started',
                 'metadata',
                 'subgraph',
-                'smart-contracts',
+                'known-origin-contracts',
               ]
             },
           ]
