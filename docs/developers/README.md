@@ -18,7 +18,7 @@ Welcome to KnownOrigin Developer Docs
 2. [Core concepts](/developers/core-concepts)
 3. [Understanding token Metadata](/developers/metadata)
 4. [Querying data - SubGraph](/developers/subgraph)
-5. [Smart Contracts](/developers/smart-contracts)
+5. [KnownOrigin Contracts](/developers/known-origin-contracts)
 
 ### Useful links
 
